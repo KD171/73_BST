@@ -1,0 +1,105 @@
+175
+BUS
+Miejska
+Sidzina
+Na³kowskiej
+Petra¿yckiego (n¿)
+¯yzna (n¿)
+Libertowska (n¿)
+Petra¿yckiego Osiedle (n¿)
+Podgaje
+Takliñskiego (n¿)
+K³uszyñska
+Smoleñskiego
+Opatkowice Zadworze
+Poroniñska (n¿)
+Opatkowice
+Opatkowice Wiadukt (n¿)
+K¹pielowa (n¿)
+Judyma
+Góra Borkowska (n¿)
+Borek Fa³êcki
+pêtla
+0
+2
+1
+1
+1
+1
+1
+1
+1
+3
+1
+1
+1
+1
+1
+1
+1
+2
+99
+4:54
+5:39
+6:7
+6:39
+7:9
+7:41
+8:14
+8:54
+9:34
+10:14
+10:59
+11:39
+12:19
+12:59
+13:39
+14:14
+14:45
+15:15
+15:45
+16:15
+16:45
+17:15
+17:45
+18:15
+18:50
+19:24
+20:1
+20:41
+21:21
+22:1
+22:41
+99
+5:12
+5:40
+6:11
+6:44
+7:16
+7:46
+8:21
+8:56
+9:36
+10:16
+10:56
+11:36
+12:16
+12:56
+13:36
+14:16
+14:48
+15:18
+15:48
+16:18
+16:49
+17:18
+17:49
+18:25
+18:55
+19:30
+20:5
+20:45
+21:25
+22:5
+22:45
+99

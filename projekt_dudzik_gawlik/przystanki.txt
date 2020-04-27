@@ -1,0 +1,8754 @@
+AGH / UR
+50.0644
+19.9243
+NIE
+BUS
+Miejski
+AWF
+50.074
+19.9988
+NIE
+BUS-TRAM
+Miejski
+Agatowa (n¿)
+50.0218
+20.0431
+TAK
+BUS
+Miejski
+Agencja Kraków Wschód (n¿)
+50.0877
+20.0795
+TAK
+BUS
+Miejski
+Akacjowa
+50.0815
+19.9769
+NIE
+BUS
+Miejski
+Albatrosów
+50.038
+20.0178
+NIE
+BUS
+Miejski
+Aleja PrzyjaŸni
+50.0752
+20.0339
+NIE
+BUS
+Miejski
+Aleja Ró¿
+50.0753
+20.0384
+NIE
+BUS
+Miejski
+Aleja Waszyngtona (n¿)
+50.0533
+19.8977
+TAK
+BUS
+Miejski
+Aleksandrowice
+50.0812
+19.764
+NIE
+BUS
+Miejski
+Aleksandrowice Osiedle (n¿)
+50.0817
+19.7693
+TAK
+BUS
+Miejski
+Aleksandrowicza (n¿)
+49.9796
+19.9492
+TAK
+BUS
+Miejski
+Aleksandry
+50.0083
+20.0184
+NIE
+BUS
+Miejski
+Architektów
+50.0969
+20.0546
+NIE
+BUS
+Miejski
+Archiwum UMK (n¿)
+50.0587
+20.0214
+TAK
+BUS
+Miejski
+Arka
+50.0834
+20.0305
+NIE
+BUS
+Miejski
+Armii Krajowej
+50.0717
+19.8911
+NIE
+BUS
+Miejski
+Azory
+50.0867
+19.9088
+NIE
+BUS
+Miejski
+Baba Jaga (n¿)
+50.0592
+19.8624
+TAK
+BUS
+Miejski
+Babiñskiego
+50.007
+19.8798
+NIE
+BUS
+Miejski
+Baczyñskiego (n¿)
+50.0031
+19.869
+TAK
+BUS
+Miejski
+Bagienna
+50.0102
+19.8409
+NIE
+BUS
+Miejski
+Bagry
+50.0341
+19.9953
+NIE
+BUS
+Miejski
+Balice Autostrada (n¿)
+50.0849
+19.8042
+TAK
+BUS
+Miejski
+Balice Grzybów (n¿)
+50.0906
+19.7828
+TAK
+BUS
+Miejski
+Balice I (n¿)
+50.0766
+19.8081
+TAK
+BUS
+Miejski
+Balice Instytut (n¿)
+50.0839
+19.7889
+TAK
+BUS
+Miejski
+Balice Leœna (n¿)
+50.0899
+19.7867
+TAK
+BUS
+Miejski
+Balice Medweckiego (n¿)
+50.0693
+19.8018
+TAK
+BUS
+Miejski
+Balice OSP (n¿)
+50.0867
+19.7912
+TAK
+BUS
+Miejski
+Balice Olszanica Bory
+50.063
+19.804
+NIE
+BUS
+Miejski
+Balice Szko³a
+50.0849
+19.7938
+NIE
+BUS
+Miejski
+Balice Winna Góra (n¿)
+50.0826
+19.7762
+TAK
+BUS
+Miejski
+Banacha
+50.1015
+19.9642
+NIE
+BUS
+Miejski
+Bardosa
+50.0678
+20.0657
+NIE
+BUS-TRAM
+Miejski
+Bartnicza (n¿)
+50.0566
+20.187
+TAK
+BUS
+Miejski
+Barwna (n¿)
+50.1075
+20.1517
+TAK
+BUS
+Miejski
+Barycz (n¿)
+49.9854
+20.0025
+TAK
+BUS
+Miejski
+Batalionu 'Ska³a' AK
+50.0879
+19.9235
+NIE
+BUS
+Miejski
+Batorego
+50.0666
+19.9294
+NIE
+BUS-TRAM
+Miejski
+Batowice D³ubnia
+50.1136
+20.0218
+NIE
+BUS
+Miejski
+Batowice Kapliczka
+50.1116
+20.0164
+NIE
+BUS
+Miejski
+Batowice Sp³awy (n¿)
+50.1096
+20.0085
+TAK
+BUS
+Miejski
+Bazarowa
+50.0344
+20.0422
+NIE
+BUS
+Miejski
+Ba³uckiego (n¿)
+50.0497
+19.9259
+TAK
+BUS
+Miejski
+Belwederczyków (n¿)
+50.1059
+19.9648
+TAK
+BUS
+Miejski
+Benedyktowicza (n¿)
+50.0476
+19.889
+TAK
+BUS
+Miejski
+Beskidzka
+50.0187
+19.9517
+NIE
+BUS
+Miejski
+Bia³opr¹dnicka
+50.0946
+19.9361
+NIE
+BUS
+Miejski
+Bia³ucha
+50.0678
+19.9779
+NIE
+BUS-TRAM
+Miejski
+Bia³y Koœció³ (n¿)
+50.1693
+19.8259
+TAK
+BUS
+Miejski
+Bibice (n¿)
+50.1334
+19.9673
+TAK
+BUS
+Miejski
+Bibice Cmentarz (n¿)
+50.1257
+19.9424
+TAK
+BUS
+Miejski
+Bibice Koœciuszki
+50.1214
+19.9588
+NIE
+BUS
+Miejski
+Bibice Mokra
+50.1329
+19.9668
+NIE
+BUS
+Miejski
+Bibice Rynek
+50.1269
+19.9531
+NIE
+BUS
+Miejski
+Bielany
+50.0433
+19.8207
+NIE
+BUS
+Miejski
+Bielany Klasztor (n¿)
+50.0435
+19.8309
+TAK
+BUS
+Miejski
+Bielany Obwodnica (n¿)
+50.0433
+19.8082
+TAK
+BUS
+Miejski
+Bielany Szko³a
+50.0442
+19.8256
+NIE
+BUS
+Miejski
+Bielañska (n¿)
+50.0365
+19.8253
+TAK
+BUS
+Miejski
+Bielañskie Ska³y (n¿)
+50.0441
+19.8508
+TAK
+BUS
+Miejski
+Bie¿anowska
+50.023
+19.9818
+NIE
+BUS-TRAM
+Miejski
+Bie¿anów
+50.0175
+20.0683
+NIE
+BUS
+Miejski
+Bie¿anów Dro¿d¿ownia SKA
+50.0113
+20.0357
+NIE
+BUS
+Miejski
+Bie¿anów Granica Miasta
+50.0098
+20.0643
+NIE
+BUS
+Miejski
+Bie¿anów Kaim
+50.0081
+20.045
+NIE
+BUS
+Miejski
+Bie¿anów Pomnik
+50.0184
+20.0351
+NIE
+BUS
+Miejski
+Bie¿anów Potrzask
+50.0081
+20.0529
+NIE
+BUS
+Miejski
+Bie¿anów Szko³a
+50.0193
+20.0238
+NIE
+BUS
+Miejski
+Bie¿anów Trafo
+50.0213
+20.0162
+NIE
+BUS
+Miejski
+Bieñczycka
+50.0757
+20.0204
+NIE
+BUS-TRAM
+Miejski
+Biprostal
+50.0729
+19.9161
+NIE
+BUS-TRAM
+Miejski
+Biskupa Prandoty
+50.0792
+19.9499
+NIE
+BUS
+Miejski
+Biskupice I (n¿)
+49.9725
+20.1239
+TAK
+BUS
+Miejski
+Biskupice II (n¿)
+49.9693
+20.1324
+TAK
+BUS
+Miejski
+Biskupiñska (n¿)
+50.0362
+20.0135
+TAK
+BUS
+Miejski
+Blokowa (n¿)
+50.0854
+20.0748
+TAK
+BUS
+Miejski
+Bochenka (n¿)
+50.0099
+19.9714
+TAK
+BUS
+Miejski
+Bociana
+50.0949
+19.9515
+NIE
+BUS
+Miejski
+Bogucianka
+50.0099
+19.8122
+NIE
+BUS
+Miejski
+Bojki
+50.0077
+19.9626
+NIE
+BUS
+Miejski
+Bolechowice
+50.1471
+19.7917
+NIE
+BUS
+Miejski
+Bolechowice Drogi (n¿)
+50.1418
+19.7971
+TAK
+BUS
+Miejski
+Bolechowice Krzewiny (n¿)
+50.1351
+19.7992
+TAK
+BUS
+Miejski
+Bolechowice Zielona (n¿)
+50.1272
+19.8038
+TAK
+BUS
+Miejski
+Bolechowice Zielona Ma³a (n¿)
+50.1319
+19.7921
+TAK
+BUS
+Miejski
+Boles³awa Œmia³ego
+50.0183
+19.8179
+NIE
+BUS
+Miejski
+Boleñ Pêtla
+50.1288
+19.9831
+NIE
+BUS
+Miejski
+Bonarka
+50.0298
+19.9534
+NIE
+BUS
+Miejski
+Bora-Komorowskiego
+50.0858
+19.9785
+NIE
+BUS
+Miejski
+Borek Fa³êcki
+50.0132
+19.9268
+NIE
+BUS-TRAM
+Miejski
+Borek Fa³êcki I
+50.0146
+19.9277
+NIE
+BUS-TRAM
+Miejski
+Borek Szlachecki I (n¿)
+49.9654
+19.7765
+TAK
+BUS
+Miejski
+Borek Szlachecki II (n¿)
+49.9648
+19.7707
+TAK
+BUS
+Miejski
+Borkowska
+50.0045
+19.9058
+NIE
+BUS
+Miejski
+Borsucza
+50.0305
+19.9285
+NIE
+BUS-TRAM
+Miejski
+Bosaków
+50.0824
+19.9631
+NIE
+BUS
+Miejski
+Bosutów Dziekanowice (n¿)
+50.11
+19.9911
+TAK
+BUS
+Miejski
+Bosutów Krakowska (n¿)
+50.1151
+19.9952
+TAK
+BUS
+Miejski
+Bosutów Remiza
+50.1233
+19.9942
+NIE
+BUS
+Miejski
+Brama nr 4
+50.065
+20.0748
+NIE
+BUS-TRAM
+Miejski
+Brama nr 5
+50.0692
+20.0918
+NIE
+BUS-TRAM
+Miejski
+Brama nr 5 (n¿)
+50.0687
+20.0915
+TAK
+BUS
+Miejski
+Branice (n¿)
+50.0592
+20.1369
+TAK
+BUS
+Miejski
+Branice Na Dole (n¿)
+50.0655
+20.1412
+TAK
+BUS
+Miejski
+Branice Oœrodek Zdrowia (n¿)
+50.0584
+20.1289
+TAK
+BUS
+Miejski
+Branice Pagórek (n¿)
+50.0686
+20.1398
+TAK
+BUS
+Miejski
+Branice Szko³a
+50.0602
+20.1432
+NIE
+BUS
+Miejski
+Bratys³awska
+50.0837
+19.9342
+NIE
+BUS-TRAM
+Miejski
+Brodowicza
+50.0691
+19.9611
+NIE
+BUS
+Miejski
+Brogi
+50.0798
+19.9611
+NIE
+BUS
+Miejski
+Bronowice
+50.0772
+19.902
+NIE
+BUS-TRAM
+Miejski
+Bronowice Ma³e
+50.0818
+19.8819
+NIE
+BUS-TRAM
+Miejski
+Bronowice Wiadukt
+50.0813
+19.8897
+NIE
+BUS-TRAM
+Miejski
+Bronowice Wielkie
+50.106
+19.8801
+NIE
+BUS
+Miejski
+Bro¿ka
+50.0305
+19.9319
+NIE
+BUS-TRAM
+Miejski
+Brzegi I
+50.0332
+20.0945
+NIE
+BUS
+Miejski
+Brzegi III (n¿)
+50.0369
+20.1013
+TAK
+BUS
+Miejski
+Brzegi Pêtla
+50.0315
+20.095
+NIE
+BUS
+Miejski
+Brzegi U¿ytek Ekologiczny (n¿)
+50.0357
+20.0876
+TAK
+BUS
+Miejski
+Brzeska (n¿)
+50.0724
+20.1897
+TAK
+BUS
+Miejski
+Brzezie Dzia³ki (n¿)
+50.1165
+19.8291
+TAK
+BUS
+Miejski
+Brzezie Kluczwody (n¿)
+50.1293
+19.8218
+TAK
+BUS
+Miejski
+Brzezie Koœció³ (n¿)
+50.1325
+19.8216
+TAK
+BUS
+Miejski
+Brzezie Kulka (n¿)
+50.1248
+19.8152
+TAK
+BUS
+Miejski
+Brzezie Narodowe (n¿)
+50.1222
+19.8217
+TAK
+BUS
+Miejski
+Brzezinka
+50.1379
+19.7386
+NIE
+BUS
+Miejski
+Brzezinka KuŸnia (n¿)
+49.9628
+19.6496
+TAK
+BUS
+Miejski
+Brzezinka Skrzy¿owanie
+50.1354
+19.7397
+NIE
+BUS
+Miejski
+Brzezinka Zarzecze (n¿)
+50.1382
+19.7478
+TAK
+BUS
+Miejski
+BrzeŸnica Dworzec
+49.9668
+19.6288
+NIE
+BUS
+Miejski
+BrzeŸnica Pasieka (n¿)
+49.9647
+19.6394
+TAK
+BUS
+Miejski
+Brzoskwinia Góra (n¿)
+50.0934
+19.7296
+TAK
+BUS
+Miejski
+Brzoskwinia Kamyk (n¿)
+50.0933
+19.7101
+TAK
+BUS
+Miejski
+Brzoskwinia Koziary (n¿)
+50.0906
+19.7349
+TAK
+BUS
+Miejski
+Brzoskwinia Pêtla
+50.0899
+19.703
+NIE
+BUS
+Miejski
+Brzoskwinia Sklep
+50.0957
+19.7186
+NIE
+BUS
+Miejski
+Brzozówka Oskarówka
+50.1755
+19.8964
+NIE
+BUS
+Miejski
+Brzozówka Oœrodek
+50.172
+19.8982
+NIE
+BUS
+Miejski
+Brzyczyna
+49.9726
+19.8691
+NIE
+BUS
+Miejski
+Brücknera
+50.012
+19.8758
+NIE
+BUS
+Miejski
+Budzyñ Pla¿a G³ówna (n¿)
+50.0475
+19.7918
+TAK
+BUS
+Miejski
+Budzyñ Zalew Budzyñski (n¿)
+50.0522
+19.7837
+TAK
+BUS
+Miejski
+Budzyñ Zalew na Piaskach (n¿)
+50.0498
+19.7996
+TAK
+BUS
+Miejski
+Bujaka
+50.0104
+19.9488
+NIE
+BUS
+Miejski
+Buków Klin (n¿)
+49.9466
+19.8419
+TAK
+BUS
+Miejski
+Buków Pêtla
+49.953
+19.8346
+NIE
+BUS
+Miejski
+Buków Szko³a (n¿)
+49.9464
+19.8467
+TAK
+BUS
+Miejski
+Bulwarowa (n¿)
+50.0751
+20.053
+TAK
+BUS
+Miejski
+Bulwarowa Ogródki Dzia³kowe (n¿)
+50.0711
+20.0535
+TAK
+BUS
+Miejski
+Bunscha (n¿)
+50.0119
+19.8831
+TAK
+BUS
+Miejski
+Burów (n¿)
+50.0938
+19.774
+TAK
+BUS
+Miejski
+Burów Centrum
+50.0952
+19.7693
+NIE
+BUS
+Miejski
+Bystronia (n¿)
+50.1099
+20.1149
+TAK
+BUS
+Miejski
+B³onia Koœcielnickie (n¿)
+50.0844
+20.1662
+TAK
+BUS
+Miejski
+Bêb³o Lasek (n¿)
+50.1832
+19.7775
+TAK
+BUS
+Miejski
+Bêb³o Stara Wieœ (n¿)
+50.1843
+19.7921
+TAK
+BUS
+Miejski
+Bêb³o £abajowa (n¿)
+50.1799
+19.7858
+TAK
+BUS
+Miejski
+Bêdkowice
+50.1673
+19.7519
+NIE
+BUS
+Miejski
+Bêdkowice Borynia (n¿)
+50.1758
+19.7544
+TAK
+BUS
+Miejski
+Bêdkowice Cmentarz (n¿)
+50.1718
+19.7495
+TAK
+BUS
+Miejski
+Bêdkowice D³uga (n¿)
+50.1638
+19.7503
+TAK
+BUS
+Miejski
+Bêdkowice Kawiory (n¿)
+50.179
+19.7631
+TAK
+BUS
+Miejski
+Bêdkowice Mosurowa (n¿)
+50.1807
+19.7671
+TAK
+BUS
+Miejski
+Bêdkowice Pêtla
+50.1586
+19.7474
+NIE
+BUS
+Miejski
+Cechowa (n¿)
+50.0071
+19.9727
+TAK
+BUS
+Miejski
+Cedyñska
+50.0902
+20.0043
+NIE
+BUS
+Miejski
+Centralna
+50.0692
+20.0122
+NIE
+BUS-TRAM
+Miejski
+Centrum JP II
+50.0124
+19.9373
+NIE
+BUS
+Miejski
+Chabrowa
+50.0978
+19.9125
+NIE
+BUS
+Miejski
+Cha³ubiñskiego (n¿)
+49.9831
+19.9369
+TAK
+BUS
+Miejski
+Cha³upki
+50.049
+20.122
+NIE
+BUS
+Miejski
+Cha³upki Górne (n¿)
+50.0546
+20.1251
+TAK
+BUS
+Miejski
+Che³m
+50.0678
+19.8461
+NIE
+BUS
+Miejski
+Che³moñskiego Osiedle
+50.0916
+19.9026
+NIE
+BUS
+Miejski
+Che³moñskiego Pêtla
+50.0936
+19.8974
+NIE
+BUS
+Miejski
+Che³mska (n¿)
+50.0639
+19.8412
+TAK
+BUS
+Miejski
+Chmieleniec
+50.0204
+19.8975
+NIE
+BUS-TRAM
+Miejski
+Chobot (n¿)
+50.0736
+20.3466
+TAK
+BUS
+Miejski
+Chobot Leœniczówka
+50.0801
+20.3526
+NIE
+BUS
+Miejski
+Cholerzyn Granica (n¿)
+50.0598
+19.7426
+TAK
+BUS
+Miejski
+Cholerzyn Sklep (n¿)
+50.0592
+19.7689
+TAK
+BUS
+Miejski
+Cholerzyn Skrzy¿owanie (n¿)
+50.058
+19.7621
+TAK
+BUS
+Miejski
+Cholerzyn Skwer (n¿)
+50.0585
+19.7744
+TAK
+BUS
+Miejski
+Cholerzyn Zagórze (n¿)
+50.0584
+19.7539
+TAK
+BUS
+Miejski
+Chopina
+50.0676
+19.9173
+NIE
+BUS
+Miejski
+Chorowice Pêtla
+49.9496
+19.8695
+NIE
+BUS
+Miejski
+Chrosna Kapliczka (n¿)
+50.0796
+19.7294
+TAK
+BUS
+Miejski
+Chrosna Pêtla
+50.0822
+19.7096
+NIE
+BUS
+Miejski
+Chrosna Sklep (n¿)
+50.0797
+19.7211
+TAK
+BUS
+Miejski
+Chrosna Studnia (n¿)
+50.0814
+19.7162
+TAK
+BUS
+Miejski
+Cichy K¹cik
+50.063
+19.9034
+NIE
+BUS-TRAM
+Miejski
+Ciekowiec (n¿)
+50.0505
+20.1643
+TAK
+BUS
+Miejski
+Cienista
+50.0854
+20.0385
+NIE
+BUS-TRAM
+Miejski
+Clepardia
+50.0932
+19.9448
+NIE
+BUS
+Miejski
+Cmentarz Batowice
+50.1013
+19.982
+NIE
+BUS
+Miejski
+Cmentarz Batowice Wschód (n¿)
+50.1025
+19.9868
+TAK
+BUS
+Miejski
+Cmentarz Bielany (n¿)
+50.0477
+19.8263
+TAK
+BUS
+Miejski
+Cmentarz Bie¿anów
+50.01
+20.023
+NIE
+BUS
+Miejski
+Cmentarz Borek Fa³êcki (n¿)
+50.0087
+19.915
+TAK
+BUS
+Miejski
+Cmentarz Bronowice (n¿)
+50.0956
+19.8732
+TAK
+BUS
+Miejski
+Cmentarz Grêba³ów
+50.0911
+20.0702
+NIE
+BUS
+Miejski
+Cmentarz Grêba³ów Po³udnie (n¿)
+50.0901
+20.0631
+TAK
+BUS
+Miejski
+Cmentarz Olszanica (n¿)
+50.0676
+19.8244
+TAK
+BUS
+Miejski
+Cmentarz Podgórski
+50.0389
+19.9646
+NIE
+BUS-TRAM
+Miejski
+Cmentarz Prokocim
+50.0218
+20.0072
+NIE
+BUS
+Miejski
+Cmentarz Rakowicki
+50.0743
+19.9574
+NIE
+BUS-TRAM
+Miejski
+Cmentarz Rakowicki Zachód (n¿)
+50.0756
+19.9468
+TAK
+BUS
+Miejski
+Cmentarz Ruszcza (n¿)
+50.085
+20.1499
+TAK
+BUS
+Miejski
+Cmentarz Wróblowice
+49.9798
+19.9548
+NIE
+BUS
+Miejski
+Conrada
+50.0886
+19.9001
+NIE
+BUS
+Miejski
+Cracovia B³onia
+50.0588
+19.9216
+NIE
+BUS
+Miejski
+Cracovia Stadion
+50.0581
+19.9228
+NIE
+BUS
+Miejski
+Cystersów
+50.0665
+19.9706
+NIE
+BUS-TRAM
+Miejski
+Czajowice (n¿)
+50.1896
+19.7983
+TAK
+BUS
+Miejski
+Czarnochowice I (n¿)
+50.0122
+20.0744
+TAK
+BUS
+Miejski
+Czarnowiejska
+50.0662
+19.9231
+NIE
+BUS
+Miejski
+Czernichów Bór (n¿)
+50
+19.6676
+TAK
+BUS
+Miejski
+Czernichów GS (n¿)
+49.9921
+19.6855
+TAK
+BUS
+Miejski
+Czernichów Pêtla
+49.9872
+19.6766
+NIE
+BUS
+Miejski
+Czernichów Ratanice (n¿)
+49.997
+19.6504
+TAK
+BUS
+Miejski
+Czernichów Ratanice Most (n¿)
+49.9953
+19.6574
+TAK
+BUS
+Miejski
+Czernichów Stacja Paliw (n¿)
+49.9919
+19.6894
+TAK
+BUS
+Miejski
+Czernichów Zakamycze (n¿)
+49.9933
+19.6665
+TAK
+BUS
+Miejski
+Czerwiakowskiego
+50.0083
+20.01
+NIE
+BUS
+Miejski
+Czerwieñskiego
+50.084
+19.9025
+NIE
+BUS
+Miejski
+Czerwone Maki P+R
+50.018
+19.8891
+NIE
+BUS-TRAM
+Miejski
+Czulice Koœció³
+50.127
+20.188
+NIE
+BUS
+Miejski
+Czulice Przymiarki (n¿)
+50.1225
+20.1873
+TAK
+BUS
+Miejski
+Czu³ów Granica (n¿)
+50.0595
+19.7116
+TAK
+BUS
+Miejski
+Czu³ów Sklep (n¿)
+50.0597
+19.7034
+TAK
+BUS
+Miejski
+Czu³ów Szko³a
+50.0611
+19.6939
+NIE
+BUS
+Miejski
+Czu³ówek (n¿)
+50.0383
+19.6838
+TAK
+BUS
+Miejski
+Czu³ówek Kapliczka
+50.0423
+19.6799
+NIE
+BUS
+Miejski
+Czy¿yny
+50.074
+20.0113
+NIE
+BUS-TRAM
+Miejski
+Czy¿yny Dworzec
+50.0749
+20.0153
+NIE
+BUS
+Miejski
+C³o
+50.0805
+20.1853
+NIE
+BUS
+Miejski
+Æwikliñskiej
+50.016
+20.0195
+NIE
+BUS-TRAM
+Miejski
+DH Wanda
+50.0845
+20.0207
+NIE
+BUS-TRAM
+Miejski
+Danalówka (n¿)
+50.0277
+20.0392
+TAK
+BUS
+Miejski
+Darwina
+50.0908
+20.0591
+NIE
+BUS-TRAM
+Miejski
+Dauna
+50.0183
+19.9775
+NIE
+BUS-TRAM
+Miejski
+Dobrego Pasterza
+50.0889
+19.9584
+NIE
+BUS
+Miejski
+Dobry Pocz¹tek (n¿)
+50.0395
+20.0607
+TAK
+BUS
+Miejski
+Dojazdów Dzia³ki (n¿)
+50.1309
+20.1077
+TAK
+BUS
+Miejski
+Dojazdów PKS
+50.1273
+20.1027
+NIE
+BUS
+Miejski
+Dom Spokojnej Staroœci
+50.0094
+20.0038
+NIE
+BUS
+Miejski
+Domaga³y
+50.033
+20.0507
+NIE
+BUS
+Miejski
+Do¿ynkowa
+50.1026
+19.946
+NIE
+BUS
+Miejski
+Droga do Niegoszowic (n¿)
+50.1131
+19.7342
+TAK
+BUS
+Miejski
+Droga do Rz¹ski (n¿)
+50.1027
+19.8615
+TAK
+BUS
+Miejski
+Dro¿d¿owa
+50.0119
+20.0405
+NIE
+BUS
+Miejski
+Dro¿yska (n¿)
+50.0652
+20.1682
+TAK
+BUS
+Miejski
+Dru¿backiej
+49.9821
+19.9894
+NIE
+BUS
+Miejski
+Dubie Skrzy¿owanie (n¿)
+50.1443
+19.6935
+TAK
+BUS
+Miejski
+Dunikowskiego
+50.0922
+20.016
+NIE
+BUS-TRAM
+Miejski
+Du¿a Góra (n¿)
+50.0182
+20.0275
+TAK
+BUS
+Miejski
+Dworcowa
+50.0334
+19.9704
+NIE
+BUS-TRAM
+Miejski
+Dworzec G³ówny Tunel
+50.0682
+19.9476
+NIE
+BUS-TRAM
+Miejski
+Dworzec G³ówny Wschód
+50.0687
+19.9494
+NIE
+BUS
+Miejski
+Dworzec G³ówny Zachód
+50.068
+19.9454
+NIE
+BUS-TRAM
+Miejski
+Dworzec P³aszów Estakada
+50.0336
+19.9772
+NIE
+BUS-TRAM
+Miejski
+Dworzec Towarowy
+50.076
+19.9403
+NIE
+BUS-TRAM
+Miejski
+Dwór Czeczów
+50.0153
+20.0405
+NIE
+BUS
+Miejski
+Dymarek (n¿)
+50.059
+20.1037
+TAK
+BUS
+Miejski
+Dziekanowice Batowice SKA
+50.1079
+19.9958
+NIE
+BUS
+Miejski
+Dziekanowice D³uga (n¿)
+50.1129
+20.0086
+TAK
+BUS
+Miejski
+Dziekanowice Kapliczka
+50.1173
+20.0122
+NIE
+BUS
+Miejski
+Dziekanowicka (n¿)
+50.1042
+19.9922
+TAK
+BUS
+Miejski
+D¹bie
+50.0607
+19.9792
+NIE
+BUS-TRAM
+Miejski
+D¹browa
+50.0233
+19.8474
+NIE
+BUS
+Miejski
+D¹browa Szlachecka (n¿)
+49.9953
+19.7345
+TAK
+BUS
+Miejski
+D¹browa Szlachecka Figurka (n¿)
+49.9959
+19.7435
+TAK
+BUS
+Miejski
+D¹browa Szlachecka Krzemiennik
+49.9993
+19.7391
+NIE
+BUS
+Miejski
+D¹browa Szlachecka Krzy¿ (n¿)
+49.9985
+19.7511
+TAK
+BUS
+Miejski
+D¹browskiej
+50.0781
+20.0149
+NIE
+BUS
+Miejski
+EC £êg
+50.0512
+20.004
+NIE
+BUS
+Miejski
+Elektrociep³ownia Kraków
+50.0571
+20.0018
+NIE
+BUS
+Miejski
+Elektromonta¿
+50.0877
+20.0646
+NIE
+BUS-TRAM
+Miejski
+Elektromonta¿ (n¿)
+50.0882
+20.0666
+TAK
+BUS
+Miejski
+Fabryczna
+50.0604
+19.9702
+NIE
+BUS-TRAM
+Miejski
+Fatimska (n¿)
+50.0932
+20.0291
+TAK
+BUS
+Miejski
+Filharmonia
+50.059
+19.9339
+NIE
+BUS-TRAM
+Miejski
+Fiszera
+50.0855
+19.8968
+NIE
+BUS
+Miejski
+Fort Bodzów (n¿)
+50.0315
+19.865
+TAK
+BUS
+Miejski
+Fort Mogi³a
+50.0663
+20.0712
+NIE
+BUS-TRAM
+Miejski
+Fort Mogi³a (n¿)
+50.0656
+20.0705
+TAK
+BUS
+Miejski
+Fort Swoszowice (n¿)
+49.9892
+19.9563
+TAK
+BUS
+Miejski
+Fort Winnica (n¿)
+50.0233
+19.8655
+TAK
+BUS
+Miejski
+Forteczna
+50.0008
+19.9068
+NIE
+BUS
+Miejski
+Francesco Nullo
+50.06
+19.9668
+NIE
+BUS-TRAM
+Miejski
+Fredry
+50.0208
+19.9428
+NIE
+BUS
+Miejski
+Gaik (n¿)
+50.1087
+19.8785
+TAK
+BUS
+Miejski
+Gaj Kwiatowa (n¿)
+49.958
+19.9131
+TAK
+BUS
+Miejski
+Gaj Rudawa (n¿)
+49.9561
+19.9034
+TAK
+BUS
+Miejski
+Gaj Szko³a
+49.9615
+19.8921
+NIE
+BUS
+Miejski
+Gaj Zadziele
+49.956
+19.8895
+NIE
+BUS
+Miejski
+Gaj Zgody (n¿)
+49.9557
+19.8972
+TAK
+BUS
+Miejski
+Garlica Duchowna Kapliczka (n¿)
+50.1442
+19.9249
+TAK
+BUS
+Miejski
+Garlica Duchowna Rozjazd
+50.1502
+19.9218
+NIE
+BUS
+Miejski
+Garlica Murowana Kasztany (n¿)
+50.1347
+19.9228
+TAK
+BUS
+Miejski
+Garlica Murowana Plac Zabaw
+50.1411
+19.9277
+NIE
+BUS
+Miejski
+Garliczka Chochó³ (n¿)
+50.1565
+19.9188
+TAK
+BUS
+Miejski
+Geologów (n¿)
+49.985
+19.9788
+TAK
+BUS
+Miejski
+Giebu³tów
+50.1416
+19.8841
+NIE
+BUS
+Miejski
+Giebu³tów Morgi
+50.1516
+19.8711
+NIE
+BUS
+Miejski
+Giebu³tów Plac Zabaw (n¿)
+50.144
+19.8786
+TAK
+BUS
+Miejski
+Giebu³tów Trojadyn (n¿)
+50.1357
+19.8716
+TAK
+BUS
+Miejski
+Giebu³tów Trojadyn Trafo (n¿)
+50.129
+19.8807
+TAK
+BUS
+Miejski
+Giebu³tów Zbiornik (n¿)
+50.1475
+19.8752
+TAK
+BUS
+Miejski
+Giedroycia (n¿)
+50.0644
+20.0814
+TAK
+BUS
+Miejski
+Giedroycia ZTPO (n¿)
+50.0594
+20.0792
+TAK
+BUS
+Miejski
+Gie³da Balicka P+R (n¿)
+50.0815
+19.8756
+TAK
+BUS
+Miejski
+Glinnik (n¿)
+50.0467
+19.8823
+TAK
+BUS
+Miejski
+Glogera (n¿)
+50.1026
+19.9276
+TAK
+BUS
+Miejski
+Glogera Granica Miasta (n¿)
+50.1043
+19.9265
+TAK
+BUS
+Miejski
+GnieŸnieñska (n¿)
+50.0835
+19.906
+TAK
+BUS
+Miejski
+Godlewskiego
+50.0823
+19.8534
+NIE
+BUS
+Miejski
+Golkowice Koœció³
+49.9726
+19.9798
+NIE
+BUS
+Miejski
+Golkowice Pêtla
+49.9738
+19.9673
+NIE
+BUS
+Miejski
+Golkowice Sklep
+49.973
+19.9892
+NIE
+BUS
+Miejski
+Gospodarska
+50.1078
+19.9031
+NIE
+BUS
+Miejski
+Goszcza Cmentarz (n¿)
+50.1822
+20.0685
+TAK
+BUS
+Miejski
+Goszcza Dworek
+50.1868
+20.0699
+NIE
+BUS
+Miejski
+Goszyce Pod Lasem (n¿)
+50.1715
+20.1253
+TAK
+BUS
+Miejski
+Goszyce Remiza (n¿)
+50.1794
+20.1326
+TAK
+BUS
+Miejski
+Go³uchowice
+49.9465
+19.7849
+NIE
+BUS
+Miejski
+Go³uchowice Jurczyce
+49.944
+19.7793
+NIE
+BUS
+Miejski
+Go³uchowice Sklep (n¿)
+49.941
+19.7738
+TAK
+BUS
+Miejski
+Grabie Dom Kultury (n¿)
+50.0399
+20.1336
+TAK
+BUS
+Miejski
+Grabie Koœció³
+50.0406
+20.1396
+NIE
+BUS
+Miejski
+Grabie KuŸnia (n¿)
+49.9278
+19.7393
+TAK
+BUS
+Miejski
+Grabie Polanka (n¿)
+49.9338
+19.7527
+TAK
+BUS
+Miejski
+Grabie Pêtla
+49.9259
+19.7341
+NIE
+BUS
+Miejski
+Grabie Szczurów (n¿)
+50.0387
+20.1118
+TAK
+BUS
+Miejski
+Grabowa
+50.0697
+19.8593
+NIE
+BUS
+Miejski
+Grabówki Pêtla
+49.9738
+20.0006
+NIE
+BUS
+Miejski
+Gromadzka
+50.0406
+19.9781
+NIE
+BUS-TRAM
+Miejski
+Grota-Roweckiego
+50.0319
+19.9202
+NIE
+BUS-TRAM
+Miejski
+Grottgera
+50.0719
+19.9304
+NIE
+BUS
+Miejski
+Grzegorza z Sanoka (n¿)
+50.0988
+20.0925
+TAK
+BUS
+Miejski
+Grêba³ów (n¿)
+50.1011
+20.0692
+TAK
+BUS
+Miejski
+Grêbynice (n¿)
+50.1676
+19.8678
+TAK
+BUS
+Miejski
+Grêbynice Mogie³ki (n¿)
+50.1737
+19.8638
+TAK
+BUS
+Miejski
+Grêbynice OSP (n¿)
+50.1661
+19.8728
+TAK
+BUS
+Miejski
+Gwarecka (n¿)
+50.0665
+20.1096
+TAK
+BUS
+Miejski
+G³owackiego
+50.0754
+19.9068
+NIE
+BUS-TRAM
+Miejski
+G³êboka Kolonia (n¿)
+50.1323
+20.1445
+TAK
+BUS
+Miejski
+G³êboka Staw
+50.1332
+20.1493
+NIE
+BUS
+Miejski
+G³êboka Zakrêt (n¿)
+50.1309
+20.1521
+TAK
+BUS
+Miejski
+Góra Borkowska (n¿)
+50.0074
+19.9245
+TAK
+BUS
+Miejski
+Górka Narodowa
+50.0929
+19.9563
+NIE
+BUS
+Miejski
+Górka Narodowa Wschód
+50.0999
+19.9645
+NIE
+BUS
+Miejski
+Górka Pychowicka (n¿)
+50.0339
+19.8757
+TAK
+BUS
+Miejski
+Górna Wieœ Pêtla
+50.1626
+19.9361
+NIE
+BUS
+Miejski
+Habina (n¿)
+50.0579
+20.0302
+TAK
+BUS
+Miejski
+Hala Sportowa Piaski Wielkie (n¿)
+50.0028
+19.9863
+TAK
+BUS
+Miejski
+Hala Targowa
+50.0586
+19.9489
+NIE
+BUS-TRAM
+Miejski
+Hallera (n¿)
+50.0034
+19.9952
+TAK
+BUS
+Miejski
+Halszki
+50.0056
+19.9496
+NIE
+BUS
+Miejski
+Hektary (n¿)
+50.1098
+20.1757
+TAK
+BUS
+Miejski
+Herberta (n¿)
+50.0104
+19.9442
+TAK
+BUS
+Miejski
+Hofmana
+50.0575
+19.9002
+NIE
+BUS
+Miejski
+Igo³omska (n¿)
+50.0735
+20.1514
+TAK
+BUS
+Miejski
+Imbramowska
+50.0876
+19.9484
+NIE
+BUS
+Miejski
+Instytut Pediatrii
+50.0103
+20.0001
+NIE
+BUS
+Miejski
+Instytut Reumatologii
+50.0577
+19.9142
+NIE
+BUS
+Miejski
+Isep (n¿)
+50.0548
+20.0211
+TAK
+BUS
+Miejski
+Iwanowice Dworskie Pêtla
+50.2206
+19.9793
+NIE
+BUS
+Miejski
+Jana Kazimierza
+50.0951
+20.0472
+NIE
+BUS
+Miejski
+Janasówka (n¿)
+49.9999
+19.8175
+TAK
+BUS
+Miejski
+Januszowice
+50.1494
+19.8932
+NIE
+BUS
+Miejski
+Janówka (n¿)
+50.0794
+20.1602
+TAK
+BUS
+Miejski
+Jarzêbiny
+50.0919
+20.0607
+NIE
+BUS-TRAM
+Miejski
+Jasieñskiego (n¿)
+50.017
+20.0572
+TAK
+BUS
+Miejski
+Jasnogórska (n¿)
+50.0979
+19.8918
+TAK
+BUS
+Miejski
+Jaœkowice (n¿)
+49.9601
+19.6668
+TAK
+BUS
+Miejski
+Jaœkowice PKP (n¿)
+49.9607
+19.6746
+TAK
+BUS
+Miejski
+Jerzmanowskiego
+50.0106
+20.008
+NIE
+BUS
+Miejski
+Jeziorzany Górskie Domy (n¿)
+49.9816
+19.7667
+TAK
+BUS
+Miejski
+Jeziorzany Pêtla
+49.9871
+19.7786
+NIE
+BUS
+Miejski
+Jeziorzany Rondo (n¿)
+49.9941
+19.7766
+TAK
+BUS
+Miejski
+Je¿owa
+50.0381
+20.0262
+NIE
+BUS
+Miejski
+Jordanowska (n¿)
+50.0948
+19.915
+TAK
+BUS
+Miejski
+Jubilat
+50.0555
+19.928
+NIE
+BUS-TRAM
+Miejski
+Judyma
+50.0024
+19.9226
+NIE
+BUS
+Miejski
+Judyma Szko³a
+50.0009
+19.9168
+NIE
+BUS
+Miejski
+Jugowicka
+50.0075
+19.9304
+NIE
+BUS
+Miejski
+Jurczaka (n¿)
+50.0864
+19.9865
+TAK
+BUS
+Miejski
+Jurczyce Dom Ludowy
+49.9384
+19.7806
+NIE
+BUS
+Miejski
+Jurczyce Podole (n¿)
+49.9387
+19.7912
+TAK
+BUS
+Miejski
+Jurczyce Szko³a (n¿)
+49.9386
+19.7867
+TAK
+BUS
+Miejski
+Jêdrzejczyka (n¿)
+50.0148
+20.0421
+TAK
+BUS
+Miejski
+Kabel
+50.0271
+19.9767
+NIE
+BUS-TRAM
+Miejski
+Kamieñ Dó³ (n¿)
+50.0093
+19.584
+TAK
+BUS
+Miejski
+Kamieñ Szko³a
+50.015
+19.5867
+NIE
+BUS
+Miejski
+Kamieñskiego
+50.029
+19.9574
+NIE
+BUS
+Miejski
+Kamieñskiego Wiadukt (n¿)
+50.032
+19.9483
+TAK
+BUS
+Miejski
+Kampus UJ
+50.024
+19.9015
+NIE
+BUS-TRAM
+Miejski
+Kantorowice
+50.1042
+20.0621
+NIE
+BUS
+Miejski
+Kapelanka
+50.0448
+19.9221
+NIE
+BUS-TRAM
+Miejski
+Karniowice Górki (n¿)
+50.1494
+19.7793
+TAK
+BUS
+Miejski
+Karniowice Pêtla
+50.1524
+19.7739
+NIE
+BUS
+Miejski
+Karniów Szko³a
+50.1315
+20.1711
+NIE
+BUS
+Miejski
+Karowa (n¿)
+50.0605
+20.108
+TAK
+BUS
+Miejski
+Karpiñskiego
+50.0163
+19.9634
+NIE
+BUS
+Miejski
+Kasztanowa
+50.0652
+19.8654
+NIE
+BUS
+Miejski
+Kaszów
+50.0393
+19.7256
+NIE
+BUS
+Miejski
+Kaszów II (n¿)
+50.0389
+19.7199
+TAK
+BUS
+Miejski
+Kaszów Szko³a nr 2 (n¿)
+50.0219
+19.729
+TAK
+BUS
+Miejski
+Kaszów Tyra³ówka (n¿)
+50.0396
+19.7326
+TAK
+BUS
+Miejski
+Kaszów Wielka Droga (n¿)
+50.0252
+19.7363
+TAK
+BUS
+Miejski
+Kaszów WyŸra³ (n¿)
+50.016
+19.7191
+TAK
+BUS
+Miejski
+Kaszów £ysa Góra (n¿)
+50.0376
+19.7438
+TAK
+BUS
+Miejski
+Katowicka
+50.0897
+19.8837
+NIE
+BUS
+Miejski
+Kawiory
+50.0684
+19.9138
+NIE
+BUS
+Miejski
+Kenara (n¿)
+49.982
+19.9601
+TAK
+BUS
+Miejski
+Klasztor Cystersów
+50.0652
+20.0521
+NIE
+BUS
+Miejski
+Klasztorna
+50.0686
+20.0523
+NIE
+BUS-TRAM
+Miejski
+Kleeberga
+50.096
+20.0127
+NIE
+BUS-TRAM
+Miejski
+Kleszczów
+50.1049
+19.7489
+NIE
+BUS
+Miejski
+Kleszczów Pod Lipk¹ (n¿)
+50.1029
+19.7529
+TAK
+BUS
+Miejski
+Klimeckiego
+50.049
+19.9676
+NIE
+BUS-TRAM
+Miejski
+Kliny Zacisze
+50.0017
+19.9009
+NIE
+BUS
+Miejski
+Kobierzyn
+50.0073
+19.8918
+NIE
+BUS
+Miejski
+Kobierzyñska
+50.0342
+19.9259
+NIE
+BUS-TRAM
+Miejski
+Kobylany Dworska (n¿)
+50.1481
+19.7531
+TAK
+BUS
+Miejski
+Kobylany Kwiatowa
+50.148
+19.7613
+NIE
+BUS
+Miejski
+Kobylany Remiza (n¿)
+50.1486
+19.7583
+TAK
+BUS
+Miejski
+Kochanów
+50.1148
+19.7474
+NIE
+BUS
+Miejski
+Kochanów I (n¿)
+50.1161
+19.7615
+TAK
+BUS
+Miejski
+Kocmyrzów Biblioteka
+50.13
+20.1304
+NIE
+BUS
+Miejski
+Kocmyrzów Krzy¿ówka (n¿)
+50.1336
+20.126
+TAK
+BUS
+Miejski
+Kocmyrzów Rondo
+50.1337
+20.1142
+NIE
+BUS
+Miejski
+Kocmyrzów Sodfiny (n¿)
+50.1299
+20.137
+TAK
+BUS
+Miejski
+Kocmyrzów-Luborzyca Urz¹d Gminy
+50.1357
+20.1136
+NIE
+BUS
+Miejski
+Kokotów I (n¿)
+50.0122
+20.0843
+TAK
+BUS
+Miejski
+Kokotów II (n¿)
+50.0136
+20.0931
+TAK
+BUS
+Miejski
+Koksochemia
+50.0718
+20.1042
+NIE
+BUS-TRAM
+Miejski
+Koksochemia (n¿)
+50.0718
+20.1045
+TAK
+BUS
+Miejski
+Kolna (n¿)
+50.024
+19.8321
+TAK
+BUS
+Miejski
+Kombinat
+50.0791
+20.0651
+NIE
+BUS-TRAM
+Miejski
+Komorowskiego
+50.0534
+19.9216
+NIE
+BUS-TRAM
+Miejski
+Komuny Paryskiej
+50.0069
+19.8971
+NIE
+BUS
+Miejski
+Konary Królowej Polski (n¿)
+49.9335
+19.9149
+TAK
+BUS
+Miejski
+Konary Pod Sosenk¹ (n¿)
+49.9304
+19.9175
+TAK
+BUS
+Miejski
+Konary Pêtla
+49.9444
+19.9213
+NIE
+BUS
+Miejski
+Konary Sêk (n¿)
+49.9354
+19.9264
+TAK
+BUS
+Miejski
+Konopnickiej
+50.0528
+19.9295
+NIE
+BUS
+Miejski
+Kopalina (n¿)
+50.0658
+19.8619
+TAK
+BUS
+Miejski
+Kopanka Druga (n¿)
+49.9799
+19.7741
+TAK
+BUS
+Miejski
+Kopanka Kapliczka (n¿)
+49.982
+19.7805
+TAK
+BUS
+Miejski
+Kopanka Koœció³ (n¿)
+49.9826
+19.7962
+TAK
+BUS
+Miejski
+Kopanka Pêtla
+49.9772
+19.7631
+NIE
+BUS
+Miejski
+Kopanka Szko³a
+49.9837
+19.7899
+NIE
+BUS
+Miejski
+Kopiec Koœciuszki
+50.0553
+19.8927
+NIE
+BUS
+Miejski
+Kopiec Wandy
+50.0696
+20.067
+NIE
+BUS-TRAM
+Miejski
+Korona
+50.0436
+19.9467
+NIE
+BUS-TRAM
+Miejski
+Korzkiew Botoja (n¿)
+50.1556
+19.8834
+TAK
+BUS
+Miejski
+Korzkiew Zamek (n¿)
+50.1617
+19.8811
+TAK
+BUS
+Miejski
+Kosmowskiej (n¿)
+50.0612
+19.831
+TAK
+BUS
+Miejski
+Kosocice
+49.9944
+19.9892
+NIE
+BUS
+Miejski
+Kosocicka (n¿)
+50.0046
+20.0116
+TAK
+BUS
+Miejski
+Kostrze
+50.0189
+19.843
+NIE
+BUS
+Miejski
+Kostrze Kapliczka (n¿)
+50.0269
+19.8446
+TAK
+BUS
+Miejski
+Kostrze OSP
+50.0287
+19.8521
+NIE
+BUS
+Miejski
+Kostrze Szko³a
+50.0292
+19.8556
+NIE
+BUS
+Miejski
+Koszykarska
+50.0526
+19.99
+NIE
+BUS
+Miejski
+Kozienicka
+50.0061
+19.8587
+NIE
+BUS
+Miejski
+Koœcielniki
+50.0905
+20.1752
+NIE
+BUS
+Miejski
+Koñczyce
+50.1251
+20.0218
+NIE
+BUS
+Miejski
+Kraków Airport
+50.0717
+19.8006
+NIE
+BUS
+Miejski
+Krasieniec Stary Kopalina (n¿)
+50.1959
+19.9388
+TAK
+BUS
+Miejski
+Krasieniec Stary Skrzy¿owanie (n¿)
+50.1911
+19.9414
+TAK
+BUS
+Miejski
+Krasieniec Zakupny Kapliczka
+50.2114
+19.9495
+NIE
+BUS
+Miejski
+Krasieniec Zakupny Pod Lip¹
+50.2074
+19.9379
+NIE
+BUS
+Miejski
+Krasieniec Zakupny Remiza (n¿)
+50.2009
+19.9392
+TAK
+BUS
+Miejski
+Krasnowolskiego (n¿)
+50.0853
+20.0493
+TAK
+BUS
+Miejski
+Krowoderskich Zuchów
+50.0887
+19.9254
+NIE
+BUS
+Miejski
+Krowodrza Górka
+50.0887
+19.9313
+NIE
+BUS-TRAM
+Miejski
+Krowodrza Urzêdy Skarbowe
+50.0844
+19.9306
+NIE
+BUS
+Miejski
+Kruszwicka
+50.0977
+20.0199
+NIE
+BUS
+Miejski
+Kryspinów
+50.0437
+19.7944
+NIE
+BUS
+Miejski
+Kryspinów Sanka (n¿)
+50.0419
+19.7866
+TAK
+BUS
+Miejski
+Kryspinów Stopieñ Wodny (n¿)
+50.0334
+19.816
+TAK
+BUS
+Miejski
+Krzemieniecka (n¿)
+49.9834
+19.9951
+TAK
+BUS
+Miejski
+Krzeszowice Dworzec Autobusowy
+50.1315
+19.6371
+NIE
+BUS
+Miejski
+Krzeszowice Krakowska Muzeum (n¿)
+50.1346
+19.638
+TAK
+BUS
+Miejski
+Krzeszowice Witaminka (n¿)
+50.1321
+19.6474
+TAK
+BUS
+Miejski
+Krzes³awice M³yn (n¿)
+50.0799
+20.057
+TAK
+BUS
+Miejski
+Krzyszkowice Kasztanowa I (n¿)
+49.9863
+20.0247
+TAK
+BUS
+Miejski
+Krzyszkowice Kasztanowa II (n¿)
+49.9902
+20.0241
+TAK
+BUS
+Miejski
+Krzyszkowice Koœció³ (n¿)
+49.988
+20.0336
+TAK
+BUS
+Miejski
+Krzyszkowice Krzyszkowicka
+49.9899
+20.032
+NIE
+BUS
+Miejski
+Krzyszkowice Modrzewiowa (n¿)
+49.9947
+20.0199
+TAK
+BUS
+Miejski
+Krzyszkowice Os.Szymanowskiego (n¿)
+49.9888
+20.0383
+TAK
+BUS
+Miejski
+Krzyszkowice Ró¿ana (n¿)
+49.9985
+20.0243
+TAK
+BUS
+Miejski
+Krzysztoforzyce Góra (n¿)
+50.1138
+20.1267
+TAK
+BUS
+Miejski
+Krzysztoforzyce Pêtla
+50.1158
+20.1384
+NIE
+BUS
+Miejski
+Krzysztoforzyce Sklep (n¿)
+50.1152
+20.1354
+TAK
+BUS
+Miejski
+Krzysztoforzyce przy Dworze (n¿)
+50.1157
+20.1316
+TAK
+BUS
+Miejski
+Krzêcin Cmentarz (n¿)
+49.9439
+19.7451
+TAK
+BUS
+Miejski
+Krzêcin Kapliczka (n¿)
+49.9451
+19.7335
+TAK
+BUS
+Miejski
+Krzêcin Koœció³
+49.9436
+19.7413
+NIE
+BUS
+Miejski
+Krzêcin Pêtla
+49.9531
+19.7297
+NIE
+BUS
+Miejski
+Krzêcin Sklep
+49.9418
+19.7501
+NIE
+BUS
+Miejski
+Krzêcin Szczêsna (n¿)
+49.9488
+19.7304
+TAK
+BUS
+Miejski
+Krzêcin Szko³a
+49.9438
+19.739
+NIE
+BUS
+Miejski
+Ks.Targosza (n¿)
+50.0427
+20.0532
+TAK
+BUS
+Miejski
+Ks.£aczka (n¿)
+50.0101
+20.0303
+TAK
+BUS
+Miejski
+Ksi¹¿niczki Centrum
+50.1351
+20.0094
+NIE
+BUS
+Miejski
+Ksi¹¿niczki Las (n¿)
+50.1333
+20.0048
+TAK
+BUS
+Miejski
+Ksi¹¿niczki Paszczykówka (n¿)
+50.1308
+20.014
+TAK
+BUS
+Miejski
+Kujawy
+50.0482
+20.1001
+NIE
+BUS
+Miejski
+Kukliñskiego
+50.0445
+19.9735
+NIE
+BUS-TRAM
+Miejski
+Kulerzów (n¿)
+49.9453
+19.8538
+TAK
+BUS
+Miejski
+Kulerzów W¹wóz (n¿)
+49.9451
+19.8622
+TAK
+BUS
+Miejski
+Kupa³y
+50.0954
+20.0175
+NIE
+BUS
+Miejski
+Kurdwanów P+R
+50.0136
+19.9504
+NIE
+BUS-TRAM
+Miejski
+Kurdwanów Szko³a
+50.0051
+19.9655
+NIE
+BUS
+Miejski
+Kurzei
+50.0952
+19.9888
+NIE
+BUS
+Miejski
+KuŸnicy Ko³³¹tajowskiej
+50.0984
+19.9625
+NIE
+BUS
+Miejski
+K³okoczyn Machaczki (n¿)
+49.9963
+19.6318
+TAK
+BUS
+Miejski
+K³okoczyn Szko³a (n¿)
+49.995
+19.6394
+TAK
+BUS
+Miejski
+K³uszyñska
+49.9873
+19.9131
+NIE
+BUS
+Miejski
+K¹kolowa (n¿)
+50.0514
+20.1275
+TAK
+BUS
+Miejski
+K¹pielowa (n¿)
+49.999
+19.9215
+TAK
+BUS
+Miejski
+Kêpa (n¿)
+50.0568
+20.068
+TAK
+BUS
+Miejski
+Lajkonika (n¿)
+50.0621
+19.8884
+TAK
+BUS
+Miejski
+Landaua
+49.9881
+19.9637
+NIE
+BUS
+Miejski
+Las Borkowski
+50.008
+19.9066
+NIE
+BUS
+Miejski
+Lasek Mogilski
+50.0543
+20.0495
+NIE
+BUS
+Miejski
+Lasek £êgowski (n¿)
+50.0526
+20.0379
+TAK
+BUS
+Miejski
+Lednica Górna (n¿)
+49.9772
+20.0922
+TAK
+BUS
+Miejski
+Lednica Górna Chor¹gwica (n¿)
+49.9783
+20.0868
+TAK
+BUS
+Miejski
+Lekarska
+50.0865
+19.9383
+NIE
+BUS
+Miejski
+Lesisko
+50.054
+20.0453
+NIE
+BUS
+Miejski
+Leszczynowa (n¿)
+50.0591
+19.8995
+TAK
+BUS
+Miejski
+Leszka Bia³ego
+50.0959
+20.0518
+NIE
+BUS
+Miejski
+Leœmiana
+50.0682
+19.8329
+NIE
+BUS
+Miejski
+Libertowska (n¿)
+49.9836
+19.8897
+TAK
+BUS
+Miejski
+Libertów
+49.9738
+19.9075
+NIE
+BUS
+Miejski
+Libertów Dolny (n¿)
+49.9792
+19.9107
+TAK
+BUS
+Miejski
+Libertów Droga do Sidziny (n¿)
+49.9716
+19.8763
+TAK
+BUS
+Miejski
+Libertów Dzia³y (n¿)
+49.9721
+19.8915
+TAK
+BUS
+Miejski
+Libertów Krzy¿ówka
+49.9716
+19.884
+NIE
+BUS
+Miejski
+Libertów Szko³a
+49.9725
+19.8985
+NIE
+BUS
+Miejski
+Libertów Zgodna (n¿)
+49.9779
+19.9092
+TAK
+BUS
+Miejski
+Libertów Œwietlista
+49.955
+19.93
+NIE
+BUS
+Miejski
+Limanowskiego
+50.0452
+19.955
+NIE
+BUS-TRAM
+Miejski
+Lindego (n¿)
+50.0808
+19.872
+TAK
+BUS
+Miejski
+Lipiñskiego
+50.0308
+19.9248
+NIE
+BUS-TRAM
+Miejski
+Lipowskiego (n¿)
+50.0151
+20.0372
+TAK
+BUS
+Miejski
+Lipska
+50.0406
+19.9844
+NIE
+BUS-TRAM
+Miejski
+Liszki I (n¿)
+50.0389
+19.7746
+TAK
+BUS
+Miejski
+Liszki Krzy¿ówka
+50.0347
+19.7575
+NIE
+BUS
+Miejski
+Liszki Tyniecka (n¿)
+50.0346
+19.7736
+TAK
+BUS
+Miejski
+Liszki UG
+50.0386
+19.7674
+NIE
+BUS
+Miejski
+Liszki Wo³owska Droga (n¿)
+50.0311
+19.7494
+TAK
+BUS
+Miejski
+Lubicz
+50.0652
+19.9521
+NIE
+BUS-TRAM
+Miejski
+Lublañska
+50.0849
+19.9636
+NIE
+BUS
+Miejski
+Lubocza Bugaj (n¿)
+50.0921
+20.074
+TAK
+BUS
+Miejski
+Lubocza PKP (n¿)
+50.0888
+20.0737
+TAK
+BUS
+Miejski
+Lubocza Przychodnia
+50.095
+20.0846
+NIE
+BUS
+Miejski
+Lubocza Szko³a
+50.095
+20.0937
+NIE
+BUS
+Miejski
+Lubocza Trafo (n¿)
+50.0944
+20.1003
+TAK
+BUS
+Miejski
+Luborzyca
+50.1464
+20.1094
+NIE
+BUS
+Miejski
+Luborzyca Szko³a
+50.1439
+20.1084
+NIE
+BUS
+Miejski
+Lubostroñ (n¿)
+50.0154
+19.9026
+TAK
+BUS
+Miejski
+Ludwinów
+50.0434
+19.9351
+NIE
+BUS
+Miejski
+Lusina Dobrzyczany (n¿)
+49.9592
+19.9292
+TAK
+BUS
+Miejski
+Lusina Dolna (n¿)
+49.9736
+19.9334
+TAK
+BUS
+Miejski
+Lusina Dwór
+49.9738
+19.9279
+NIE
+BUS
+Miejski
+Lusina Górka (n¿)
+49.955
+19.93
+TAK
+BUS
+Miejski
+Lusina Krakowska (n¿)
+49.975
+19.9239
+TAK
+BUS
+Miejski
+Lusina Krakówka (n¿)
+49.9785
+19.9323
+TAK
+BUS
+Miejski
+Lusina Kraœnik (n¿)
+49.9639
+19.935
+TAK
+BUS
+Miejski
+Lusina Pêtla
+49.9613
+19.918
+NIE
+BUS
+Miejski
+Lusina Spacerowa
+49.9703
+19.9306
+NIE
+BUS
+Miejski
+Lusina Szko³a
+49.9675
+19.9297
+NIE
+BUS
+Miejski
+Lusina Zagrody (n¿)
+49.9693
+19.9361
+TAK
+BUS
+Miejski
+Lusina Zielona
+49.9536
+19.9336
+NIE
+BUS
+Miejski
+Lusina £any (n¿)
+49.9631
+19.9228
+TAK
+BUS
+Miejski
+£agiewniki
+50.0305
+19.937
+NIE
+BUS-TRAM
+Miejski
+£agiewniki ZUS
+50.0246
+19.9339
+NIE
+BUS-TRAM
+Miejski
+£anowa
+50.0394
+19.9918
+NIE
+BUS
+Miejski
+£obzów SKA
+50.0816
+19.9163
+NIE
+BUS
+Miejski
+£ososkowice Remiza
+50.1877
+20.1602
+NIE
+BUS
+Miejski
+£ososkowice Szko³a (n¿)
+50.1906
+20.1566
+TAK
+BUS
+Miejski
+£uczanowice
+50.1073
+20.1108
+NIE
+BUS
+Miejski
+£uczanowice Skrzy¿owanie
+50.1115
+20.1202
+NIE
+BUS
+Miejski
+£uczanowicka (n¿)
+50.1002
+20.0956
+TAK
+BUS
+Miejski
+£uczyce Kosynierów
+50.1606
+20.084
+NIE
+BUS
+Miejski
+£uczyce Las (n¿)
+50.1592
+20.0923
+TAK
+BUS
+Miejski
+£uczyce Zjawienie (n¿)
+50.1647
+20.0753
+TAK
+BUS
+Miejski
+£uczyce Zwierzyniec (n¿)
+50.1707
+20.0689
+TAK
+BUS
+Miejski
+£uczyñskiego (n¿)
+50.0131
+19.9134
+TAK
+BUS
+Miejski
+£ukasiewicza
+50.0753
+19.9654
+NIE
+BUS
+Miejski
+£utnia
+50.0406
+20.0736
+NIE
+BUS
+Miejski
+£u¿ycka (n¿)
+50.0078
+19.9746
+TAK
+BUS
+Miejski
+£êczycka
+50.0928
+20.0063
+NIE
+BUS
+Miejski
+M1 Al. Pokoju
+50.0657
+19.9975
+NIE
+BUS-TRAM
+Miejski
+M1 Nowohucka
+50.0641
+20.004
+NIE
+BUS
+Miejski
+Maciejowice Góra (n¿)
+50.137
+20.0702
+TAK
+BUS
+Miejski
+Maciejowice Pêtla
+50.1421
+20.0723
+NIE
+BUS
+Miejski
+Maciejowice Skrzy¿owanie (n¿)
+50.1403
+20.0744
+TAK
+BUS
+Miejski
+Mackiewicza
+50.0904
+19.9431
+NIE
+BUS
+Miejski
+Magazynowa (n¿)
+50.025
+20.0382
+TAK
+BUS
+Miejski
+Majora
+50.0884
+19.9654
+NIE
+BUS
+Miejski
+Makowa
+50.0273
+19.9659
+NIE
+BUS
+Miejski
+Makowskiego
+50.0877
+19.916
+NIE
+BUS
+Miejski
+Makuszyñskiego (n¿)
+50.0895
+20.0438
+TAK
+BUS
+Miejski
+Malborska
+50.0265
+19.9732
+NIE
+BUS
+Miejski
+Malborska Szko³a
+50.0223
+19.9654
+NIE
+BUS
+Miejski
+Malczewskiego (n¿)
+50.0487
+19.9036
+TAK
+BUS
+Miejski
+Malinowskiego (n¿)
+49.9841
+19.9842
+TAK
+BUS
+Miejski
+Marcho³ta
+50.0926
+19.9878
+NIE
+BUS
+Miejski
+Marszowice (n¿)
+50.188
+20.0926
+TAK
+BUS
+Miejski
+Marszowice Centrum (n¿)
+50.1809
+20.0934
+TAK
+BUS
+Miejski
+Marszowice Góry (n¿)
+50.1707
+20.0962
+TAK
+BUS
+Miejski
+Maszyce (n¿)
+50.1778
+19.8634
+TAK
+BUS
+Miejski
+Maszyce Remiza (n¿)
+50.1791
+19.8615
+TAK
+BUS
+Miejski
+Maszyce Skrzy¿owanie (n¿)
+50.1807
+19.8559
+TAK
+BUS
+Miejski
+Mas³omi¹ca D³uga (n¿)
+50.1579
+20.0134
+TAK
+BUS
+Miejski
+Mas³omi¹ca KoŸlica (n¿)
+50.1603
+19.9892
+TAK
+BUS
+Miejski
+Mas³omi¹ca Staw (n¿)
+50.1607
+19.9995
+TAK
+BUS
+Miejski
+Mazowiecka
+50.0779
+19.9178
+NIE
+BUS
+Miejski
+Ma³a Góra (n¿)
+50.0142
+20.0282
+TAK
+BUS
+Miejski
+Ma³a Wieœ (n¿)
+49.9987
+20.1021
+TAK
+BUS
+Miejski
+Ma³y P³aszów P+R
+50.0401
+20.0015
+NIE
+BUS-TRAM
+Miejski
+Medweckiego
+50.0761
+20.0074
+NIE
+BUS
+Miejski
+Mehoffera
+50.0896
+19.9126
+NIE
+BUS
+Miejski
+Meissnera
+50.0761
+19.9794
+NIE
+BUS
+Miejski
+Meksyk
+50.0698
+20.0949
+NIE
+BUS-TRAM
+Miejski
+Merkuriusza Polskiego
+49.9927
+19.9402
+NIE
+BUS
+Miejski
+Miasteczko Studenckie AGH
+50.0697
+19.9037
+NIE
+BUS
+Miejski
+Micha³owice (n¿)
+50.1515
+19.9838
+TAK
+BUS
+Miejski
+Micha³owice Banasiówka (n¿)
+50.1452
+19.9686
+TAK
+BUS
+Miejski
+Micha³owice Brzozowa (n¿)
+50.1499
+19.9577
+TAK
+BUS
+Miejski
+Micha³owice Goœciniec (n¿)
+50.1737
+19.9428
+TAK
+BUS
+Miejski
+Micha³owice Górna (n¿)
+50.1684
+19.9517
+TAK
+BUS
+Miejski
+Micha³owice I
+50.1587
+19.9805
+NIE
+BUS
+Miejski
+Micha³owice II (n¿)
+50.168
+19.9779
+TAK
+BUS
+Miejski
+Micha³owice Jana Paw³a II (n¿)
+50.1549
+19.9491
+TAK
+BUS
+Miejski
+Micha³owice Komora (n¿)
+50.1424
+19.9709
+TAK
+BUS
+Miejski
+Micha³owice Kwiaty Polne (n¿)
+50.1468
+19.9631
+TAK
+BUS
+Miejski
+Micha³owice Las Micha³owski
+50.1588
+19.942
+NIE
+BUS
+Miejski
+Micha³owice Laskowiec (n¿)
+50.1727
+19.9613
+TAK
+BUS
+Miejski
+Micha³owice Lecznica (n¿)
+50.1654
+19.9689
+TAK
+BUS
+Miejski
+Micha³owice Micha³ówka (n¿)
+50.1702
+19.9404
+TAK
+BUS
+Miejski
+Micha³owice Ogrodowa (n¿)
+50.1493
+19.986
+TAK
+BUS
+Miejski
+Micha³owice Oœrodek Zdrowia
+50.1614
+19.9797
+NIE
+BUS
+Miejski
+Micha³owice Ujêcie Wody (n¿)
+50.1583
+19.967
+TAK
+BUS
+Miejski
+Micha³owice Warszawka (n¿)
+50.1711
+19.9752
+TAK
+BUS
+Miejski
+Miechowity
+50.0833
+19.9689
+NIE
+BUS
+Miejski
+Miodowa
+50.0539
+19.9481
+NIE
+BUS-TRAM
+Miejski
+Mistrzejowice
+50.095
+19.9963
+NIE
+BUS-TRAM
+Miejski
+Miœnieñska
+50.0945
+20
+NIE
+BUS-TRAM
+Miejski
+Mników Granica (n¿)
+50.0646
+19.7379
+TAK
+BUS
+Miejski
+Mników Pañska Góra (n¿)
+50.0636
+19.7211
+TAK
+BUS
+Miejski
+Mników Remiza (n¿)
+50.0599
+19.7222
+TAK
+BUS
+Miejski
+Mników Ska³y
+50.0689
+19.7075
+NIE
+BUS
+Miejski
+Mników Sklep (n¿)
+50.0599
+19.7278
+TAK
+BUS
+Miejski
+Mników Zarynnie (n¿)
+50.0662
+19.7193
+TAK
+BUS
+Miejski
+Mochnaniec (n¿)
+50.0167
+19.8814
+TAK
+BUS
+Miejski
+Modlnica
+50.1307
+19.863
+NIE
+BUS
+Miejski
+Modlnica I Kolonia (n¿)
+50.1287
+19.8704
+TAK
+BUS
+Miejski
+Modlnica II (n¿)
+50.137
+19.8653
+TAK
+BUS
+Miejski
+Modlnica Skrzy¿owanie (n¿)
+50.1247
+19.8678
+TAK
+BUS
+Miejski
+Modlnica Trojadyn Szyd³o (n¿)
+50.1253
+19.8845
+TAK
+BUS
+Miejski
+Modlniczka
+50.1198
+19.8551
+NIE
+BUS
+Miejski
+Modlniczka I (n¿)
+50.1151
+19.8572
+TAK
+BUS
+Miejski
+Modlniczka Leroy Merlin (n¿)
+50.1064
+19.8496
+TAK
+BUS
+Miejski
+Modlniczka Ma³a
+50.1084
+19.8351
+NIE
+BUS
+Miejski
+Modlniczka Poligon (n¿)
+50.1154
+19.8678
+TAK
+BUS
+Miejski
+Modlniczka Trzcie (n¿)
+50.1094
+19.8394
+TAK
+BUS
+Miejski
+Mogilany Cicha (n¿)
+49.938
+19.8931
+TAK
+BUS
+Miejski
+Mogilany Cmentarz (n¿)
+49.9448
+19.8841
+TAK
+BUS
+Miejski
+Mogilany Kopce (n¿)
+49.9442
+19.8692
+TAK
+BUS
+Miejski
+Mogilany Krótka (n¿)
+49.933
+19.9067
+TAK
+BUS
+Miejski
+Mogilany Oœrodek Zdrowia (n¿)
+49.9424
+19.8928
+TAK
+BUS
+Miejski
+Mogilany Rynek
+49.9426
+19.8854
+NIE
+BUS
+Miejski
+Mogilany Wiadukt (n¿)
+49.9366
+19.8966
+TAK
+BUS
+Miejski
+Morawica
+50.0752
+19.7533
+NIE
+BUS
+Miejski
+Morawica Cmentarz (n¿)
+50.0803
+19.7561
+TAK
+BUS
+Miejski
+Morawica Krzy¿ówka
+50.0809
+19.7494
+NIE
+BUS
+Miejski
+Morawica Mostek (n¿)
+50.0828
+19.7389
+TAK
+BUS
+Miejski
+Morawica Rudki (n¿)
+50.0699
+19.7476
+TAK
+BUS
+Miejski
+Morcinka (n¿)
+50.1037
+20.072
+TAK
+BUS
+Miejski
+Most Kotlarski (n¿)
+50.0511
+19.9622
+TAK
+BUS
+Miejski
+Motyla
+50.0375
+19.9971
+NIE
+BUS
+Miejski
+Mrozowa (n¿)
+50.084
+20.0718
+TAK
+BUS
+Miejski
+Murownia (n¿)
+50.1796
+19.8126
+TAK
+BUS
+Miejski
+Murownia Pêtla
+50.1811
+19.8119
+NIE
+BUS
+Miejski
+Muzeum Armii Krajowej (n¿)
+50.0704
+19.9491
+TAK
+BUS
+Miejski
+Muzeum Lotnictwa
+50.0735
+19.9904
+NIE
+BUS-TRAM
+Miejski
+Muzeum Narodowe
+50.0595
+19.9255
+NIE
+BUS-TRAM
+Miejski
+Mydlniki
+50.0841
+19.8455
+NIE
+BUS
+Miejski
+Mydlniki Granica Miasta (n¿)
+50.0899
+19.8376
+TAK
+BUS
+Miejski
+Mydlniki Stawy (n¿)
+50.0878
+19.8405
+TAK
+BUS
+Miejski
+Myœlenicka (n¿)
+50.0047
+19.9429
+TAK
+BUS
+Miejski
+M³odziejowice M³yn (n¿)
+50.1394
+19.9946
+TAK
+BUS
+Miejski
+M³odziejowice Park
+50.144
+19.9931
+NIE
+BUS
+Miejski
+M³ynka (n¿)
+50.1189
+19.6926
+TAK
+BUS
+Miejski
+M³ynka I (n¿)
+50.1137
+19.6969
+TAK
+BUS
+Miejski
+M³ynka Pêtla
+50.112
+19.6924
+NIE
+BUS
+Miejski
+M³ynówka SKA (n¿)
+50.0812
+19.8591
+TAK
+BUS
+Miejski
+Na Budzyniu
+50.1117
+19.8932
+NIE
+BUS
+Miejski
+Na Krêpaku (n¿)
+50.0452
+19.8593
+TAK
+BUS
+Miejski
+Na Za³êczu
+50.0597
+20.0251
+NIE
+BUS
+Miejski
+Nad Drwin¹
+50.0324
+20.0568
+NIE
+BUS
+Miejski
+Nad D³ubni¹
+50.0893
+20.0402
+NIE
+BUS
+Miejski
+Nadbrzezie (n¿)
+50.0701
+20.1018
+TAK
+BUS
+Miejski
+Narama Graniczna Sklep (n¿)
+50.1806
+19.9446
+TAK
+BUS
+Miejski
+Narama Ksiê¿a (n¿)
+50.1855
+19.9439
+TAK
+BUS
+Miejski
+Narama Remiza
+50.1807
+19.9326
+NIE
+BUS
+Miejski
+Narzymskiego
+50.0737
+19.9663
+NIE
+BUS
+Miejski
+Natansona
+50.0983
+19.9512
+NIE
+BUS
+Miejski
+Nawojowa Góra I (n¿)
+50.125
+19.6733
+TAK
+BUS
+Miejski
+Nawojowa Góra II (n¿)
+50.1285
+19.6571
+TAK
+BUS
+Miejski
+Na³kowskiej
+49.9809
+19.8735
+NIE
+BUS
+Miejski
+Niebieska Autostrada (n¿)
+49.9997
+19.9885
+TAK
+BUS
+Miejski
+Nieby³a (n¿)
+50.1023
+20.061
+TAK
+BUS
+Miejski
+NiedŸwiedŸ Felix (n¿)
+50.2238
+20.082
+TAK
+BUS
+Miejski
+NiedŸwiedŸ PKP (n¿)
+50.212
+20.0859
+TAK
+BUS
+Miejski
+Nielepice
+50.1067
+19.7095
+NIE
+BUS
+Miejski
+Nielepice Stadnina (n¿)
+50.1031
+19.7151
+TAK
+BUS
+Miejski
+Niepo³omice Batorego (n¿)
+50.0408
+20.2234
+TAK
+BUS
+Miejski
+Niepo³omice Batorego II (n¿)
+50.0421
+20.2296
+TAK
+BUS
+Miejski
+Niepo³omice Boryczów (n¿)
+50.0234
+20.1987
+TAK
+BUS
+Miejski
+Niepo³omice Diesla (n¿)
+50.0339
+20.1883
+TAK
+BUS
+Miejski
+Niepo³omice Dworzec
+50.0358
+20.2183
+NIE
+BUS
+Miejski
+Niepo³omice Jazy (n¿)
+50.0436
+20.24
+TAK
+BUS
+Miejski
+Niepo³omice Jazy II (n¿)
+50.0468
+20.2462
+TAK
+BUS
+Miejski
+Niepo³omice Kolejowa (n¿)
+50.0442
+20.2122
+TAK
+BUS
+Miejski
+Niepo³omice Koœciuszki (n¿)
+50.0288
+20.2059
+TAK
+BUS
+Miejski
+Niepo³omice K¹tek (n¿)
+50.039
+20.173
+TAK
+BUS
+Miejski
+Niepo³omice Moczyd³o (n¿)
+50.0385
+20.2162
+TAK
+BUS
+Miejski
+Niepo³omice Pasternik (n¿)
+50.0409
+20.1662
+TAK
+BUS
+Miejski
+Niepo³omice Podgrabie (n¿)
+50.0386
+20.1503
+TAK
+BUS
+Miejski
+Niepo³omice Porêby (n¿)
+50.0372
+20.18
+TAK
+BUS
+Miejski
+Niepo³omice P³aszowska I (n¿)
+50.0311
+20.1979
+TAK
+BUS
+Miejski
+Niepo³omice Rynek
+50.0333
+20.2164
+NIE
+BUS
+Miejski
+Niepo³omice Wielicka (n¿)
+50.0194
+20.1923
+TAK
+BUS
+Miejski
+Niepo³omice Wodna (n¿)
+50.0335
+20.1927
+TAK
+BUS
+Miejski
+Norymberska
+50.0298
+19.9122
+NIE
+BUS-TRAM
+Miejski
+Nowa Wieœ (n¿)
+50.0308
+19.7043
+TAK
+BUS
+Miejski
+Nowa Wieœ Jesionka (n¿)
+50.0266
+19.6809
+TAK
+BUS
+Miejski
+Nowa Wieœ Kapliczka (n¿)
+50.0339
+19.7108
+TAK
+BUS
+Miejski
+Nowa Wieœ Koœció³ (n¿)
+50.0275
+19.6978
+TAK
+BUS
+Miejski
+Nowa Wieœ Szlachecka
+50.0258
+19.69
+NIE
+BUS
+Miejski
+Nowolipki (n¿)
+50.0934
+20.0326
+TAK
+BUS
+Miejski
+Nowos¹decka
+50.0135
+19.9646
+NIE
+BUS-TRAM
+Miejski
+Nowy Bie¿anów P+R
+50.0156
+20.0231
+NIE
+BUS-TRAM
+Miejski
+Nowy Bie¿anów Po³udnie
+50.0127
+20.0156
+NIE
+BUS
+Miejski
+Nowy Kleparz
+50.0735
+19.9366
+NIE
+BUS-TRAM
+Miejski
+Nowy Prokocim
+50.0162
+20.0123
+NIE
+BUS-TRAM
+Miejski
+Obserwatorium (n¿)
+50.0535
+19.8269
+TAK
+BUS
+Miejski
+Ochmanów Oknoplast (n¿)
+50.0034
+20.1275
+TAK
+BUS
+Miejski
+Ochmanów Otaczarnia (n¿)
+50.0025
+20.1244
+TAK
+BUS
+Miejski
+Ochodza Dom Ludowy (n¿)
+49.9667
+19.7417
+TAK
+BUS
+Miejski
+Ochodza Dwór
+49.9647
+19.7432
+NIE
+BUS
+Miejski
+Ochodza Odwiœle
+49.9778
+19.7506
+NIE
+BUS
+Miejski
+Ochodza Staw (n¿)
+49.9701
+19.746
+TAK
+BUS
+Miejski
+Ochojno D¹brówki
+49.9594
+19.9634
+NIE
+BUS
+Miejski
+Ochojno Kamieniec
+49.9574
+19.971
+NIE
+BUS
+Miejski
+Ochojno Remiza
+49.9542
+19.9738
+NIE
+BUS
+Miejski
+Ochojno Skrzy¿owanie
+49.9527
+19.9742
+NIE
+BUS
+Miejski
+Oczyszczalnia Œcieków 'Kujawy' (n¿)
+50.0518
+20.1017
+TAK
+BUS
+Miejski
+Odmêtowa
+50.0547
+20.0348
+NIE
+BUS
+Miejski
+Ofiar D¹bia
+50.0596
+19.9764
+NIE
+BUS-TRAM
+Miejski
+Ojcowska
+50.101
+19.8843
+NIE
+BUS
+Miejski
+Ojcowska Dworek
+50.0944
+19.8823
+NIE
+BUS
+Miejski
+Ojcowska W¹groda
+50.0971
+19.8832
+NIE
+BUS
+Miejski
+Oleandry
+50.0598
+19.9212
+NIE
+BUS-TRAM
+Miejski
+Olsza II
+50.0849
+19.9689
+NIE
+BUS
+Miejski
+Olszanica Bory
+50.0621
+19.805
+NIE
+BUS
+Miejski
+Olszanica Kapliczka (n¿)
+50.0682
+19.8286
+TAK
+BUS
+Miejski
+Olszanica Ogródki Dzia³kowe (n¿)
+50.0644
+19.8186
+TAK
+BUS
+Miejski
+Olszecka
+50.0886
+19.9685
+NIE
+BUS
+Miejski
+Opatkowice
+49.9879
+19.915
+NIE
+BUS
+Miejski
+Opatkowice Wiadukt (n¿)
+49.9949
+19.9185
+TAK
+BUS
+Miejski
+Opatkowice Zadworze
+49.9849
+19.9195
+NIE
+BUS
+Miejski
+Opolska Estakada
+50.0848
+19.9535
+NIE
+BUS
+Miejski
+Opolska K³adka
+50.0915
+19.9271
+NIE
+BUS
+Miejski
+Orkana
+50.0733
+20.0502
+NIE
+BUS
+Miejski
+Orszy-Broniewskiego
+50.0065
+19.8638
+NIE
+BUS
+Miejski
+Orzeszkowej
+50.0506
+19.9387
+NIE
+BUS-TRAM
+Miejski
+Or³owskiego (n¿)
+50.1082
+20.1083
+TAK
+BUS
+Miejski
+Os.Akademickie PK
+50.0877
+19.9942
+NIE
+BUS
+Miejski
+Os.Dywizjonu 303
+50.0848
+20.0006
+NIE
+BUS
+Miejski
+Os.Górali
+50.0812
+20.0405
+NIE
+BUS
+Miejski
+Os.Jagielloñskie
+50.0879
+20.0276
+NIE
+BUS
+Miejski
+Os.Kalinowe
+50.0915
+20.0103
+NIE
+BUS
+Miejski
+Os.Kliny
+50.0005
+19.9127
+NIE
+BUS
+Miejski
+Os.Kolorowe
+50.0722
+20.0298
+NIE
+BUS-TRAM
+Miejski
+Os.Koœciuszkowskie
+50.0826
+20.0167
+NIE
+BUS
+Miejski
+Os.Kurdwanów
+50.0045
+19.9597
+NIE
+BUS
+Miejski
+Os.Marszowiec
+50.1189
+19.9414
+NIE
+BUS
+Miejski
+Os.Mistrzejowice Nowe
+50.0951
+20.0208
+NIE
+BUS
+Miejski
+Os.Na Lotnisku
+50.0866
+20.0139
+NIE
+BUS
+Miejski
+Os.Na Skarpie
+50.0698
+20.0452
+NIE
+BUS-TRAM
+Miejski
+Os.Na Stoku
+50.0979
+20.0502
+NIE
+BUS
+Miejski
+Os.Na Stoku Szko³a
+50.0936
+20.0562
+NIE
+BUS
+Miejski
+Os.Oœwiecenia
+50.0886
+19.9896
+NIE
+BUS
+Miejski
+Os.Piastów
+50.102
+20.0121
+NIE
+BUS-TRAM
+Miejski
+Os.Podwawelskie
+50.0461
+19.9329
+NIE
+BUS
+Miejski
+Os.Robotnicze
+50.0457
+19.9088
+NIE
+BUS
+Miejski
+Os.Strusia
+50.0865
+20.0094
+NIE
+BUS
+Miejski
+Os.Wandy
+50.0694
+20.0486
+NIE
+BUS
+Miejski
+Os.Willowe
+50.0728
+20.0534
+NIE
+BUS
+Miejski
+Os.Zgody
+50.0769
+20.0308
+NIE
+BUS-TRAM
+Miejski
+Os.Zielone
+50.0791
+20.0454
+NIE
+BUS
+Miejski
+Os.Z³otego Wieku
+50.0938
+20.0043
+NIE
+BUS-TRAM
+Miejski
+Os.£okietka
+50.1008
+19.91
+NIE
+BUS
+Miejski
+Ostafina
+50.105
+20.1714
+NIE
+BUS
+Miejski
+Owczary (n¿)
+50.1775
+19.9082
+TAK
+BUS
+Miejski
+Owczary Gajowa (n¿)
+50.1695
+19.9257
+TAK
+BUS
+Miejski
+Owczary Górna (n¿)
+50.162
+19.9234
+TAK
+BUS
+Miejski
+Owczary Pêtla
+50.1742
+19.9132
+NIE
+BUS
+Miejski
+Owczary Spacerowa (n¿)
+50.1721
+19.9194
+TAK
+BUS
+Miejski
+PCK
+50.0842
+20.0544
+NIE
+BUS
+Miejski
+PH
+50.0842
+20.0646
+NIE
+BUS-TRAM
+Miejski
+PT
+50.0317
+19.9341
+NIE
+BUS-TRAM
+Miejski
+Pachoñskiego
+50.0953
+19.9315
+NIE
+BUS
+Miejski
+Panieñskich Ska³
+50.0686
+19.8635
+NIE
+BUS
+Miejski
+Park 'Ska³y Twardowskiego' (n¿)
+50.038
+19.8985
+TAK
+BUS
+Miejski
+Park Decjusza
+50.067
+19.8698
+NIE
+BUS
+Miejski
+Park Jordana
+50.0603
+19.9181
+NIE
+BUS-TRAM
+Miejski
+Park Wodny
+50.0901
+19.9823
+NIE
+BUS
+Miejski
+Park Zdrojowy
+49.9931
+19.9349
+NIE
+BUS
+Miejski
+Pasternik (n¿)
+50.0987
+19.8682
+TAK
+BUS
+Miejski
+Petra¿yckiego (n¿)
+49.9818
+19.8787
+TAK
+BUS
+Miejski
+Petra¿yckiego Osiedle (n¿)
+49.9843
+19.8963
+TAK
+BUS
+Miejski
+Petõfiego (n¿)
+50.0942
+20.0354
+TAK
+BUS
+Miejski
+Piaski Nowe
+50.0154
+19.9713
+NIE
+BUS-TRAM
+Miejski
+Piaski Wielkie
+50.0062
+19.9821
+NIE
+BUS
+Miejski
+Piaskowa (n¿)
+50.0958
+19.8969
+TAK
+BUS
+Miejski
+Piasta Ko³odzieja
+50.098
+20.013
+NIE
+BUS-TRAM
+Miejski
+Piaszczysta
+50.0964
+19.9326
+NIE
+BUS
+Miejski
+Piekary
+50.0239
+19.7956
+NIE
+BUS
+Miejski
+Piekary Borki (n¿)
+50.0285
+19.7868
+TAK
+BUS
+Miejski
+Piekary Dó³ (n¿)
+50.0313
+19.7807
+TAK
+BUS
+Miejski
+Piekary Górne
+50.0182
+19.7876
+NIE
+BUS
+Miejski
+Piekary Korea (n¿)
+50.0291
+19.801
+TAK
+BUS
+Miejski
+Piekary Na Brzegu (n¿)
+50.0295
+19.8069
+TAK
+BUS
+Miejski
+Piekary Pa³ac (n¿)
+50.0206
+19.7936
+TAK
+BUS
+Miejski
+Piekary Sklep (n¿)
+50.0264
+19.7974
+TAK
+BUS
+Miejski
+Pielgrzymowice Granica (n¿)
+50.1535
+20.0395
+TAK
+BUS
+Miejski
+Pielgrzymowice Pêtla
+50.1472
+20.0483
+NIE
+BUS
+Miejski
+Pielgrzymowice Wierzbowa (n¿)
+50.1509
+20.048
+TAK
+BUS
+Miejski
+Pielêgniarek
+50.0835
+19.9369
+NIE
+BUS
+Miejski
+Pilotów
+50.0788
+19.9715
+NIE
+BUS
+Miejski
+Pisary (n¿)
+50.1352
+19.693
+TAK
+BUS
+Miejski
+Pisary Dwór (n¿)
+50.1291
+19.692
+TAK
+BUS
+Miejski
+Pisary Kasztanowa (n¿)
+50.1402
+19.6932
+TAK
+BUS
+Miejski
+Pisary Kiosk (n¿)
+50.1256
+19.6967
+TAK
+BUS
+Miejski
+Pisary Mleczarnia (n¿)
+50.1247
+19.7021
+TAK
+BUS
+Miejski
+Pisary Skrzy¿owanie (n¿)
+50.1233
+19.6808
+TAK
+BUS
+Miejski
+Plac Bohaterów Getta
+50.0466
+19.955
+NIE
+BUS-TRAM
+Miejski
+Plac Centralny im. R.Reagana
+50.0717
+20.0356
+NIE
+BUS-TRAM
+Miejski
+Plac Inwalidów
+50.0687
+19.927
+NIE
+BUS-TRAM
+Miejski
+Plac Wszystkich Œwiêtych
+50.0591
+19.9382
+NIE
+BUS-TRAM
+Miejski
+Plaza
+50.063
+19.984
+NIE
+BUS-TRAM
+Miejski
+Pleszowska
+50.0919
+19.9349
+NIE
+BUS
+Miejski
+Pleszów
+50.073
+20.117
+NIE
+BUS-TRAM
+Miejski
+Poczta G³ówna
+50.0598
+19.9424
+NIE
+BUS-TRAM
+Miejski
+Pod Fortem
+49.9987
+19.8971
+NIE
+BUS
+Miejski
+Pod Lip¹ (n¿)
+49.9753
+19.9866
+TAK
+BUS
+Miejski
+Podgaje
+49.986
+19.9035
+NIE
+BUS
+Miejski
+Podgórki Tynieckie
+50.0064
+19.8445
+NIE
+BUS
+Miejski
+Podgórze SKA
+50.0424
+19.9608
+NIE
+BUS-TRAM
+Miejski
+Podstawie (n¿)
+50.0687
+20.1669
+TAK
+BUS
+Miejski
+Pod³ê¿e Balachówka (n¿)
+50.0107
+20.1515
+TAK
+BUS
+Miejski
+Pod³ê¿e Centrum (n¿)
+50.0142
+20.1707
+TAK
+BUS
+Miejski
+Pod³ê¿e Przedszkole (n¿)
+50.0135
+20.1618
+TAK
+BUS
+Miejski
+Pod³ê¿e Stra¿ (n¿)
+50.0134
+20.1646
+TAK
+BUS
+Miejski
+Polana ¯ywiecka (n¿)
+50.011
+19.9091
+TAK
+BUS
+Miejski
+Polanka Hallera Dwór
+49.9375
+19.7658
+NIE
+BUS
+Miejski
+Polanowice Boisko (n¿)
+50.1982
+20.0915
+TAK
+BUS
+Miejski
+Polanowice Kolonia (n¿)
+50.1935
+20.0917
+TAK
+BUS
+Miejski
+Politechnika
+50.0713
+19.9451
+NIE
+BUS-TRAM
+Miejski
+Popielidów
+50.0993
+20.0177
+NIE
+BUS
+Miejski
+Poroniñska (n¿)
+49.987
+19.9169
+TAK
+BUS
+Miejski
+Powstañców
+50.093
+19.9638
+NIE
+BUS
+Miejski
+Powstañców Gara¿e
+50.0953
+19.9683
+NIE
+BUS
+Miejski
+Powstañców Magazyny
+50.1062
+20.0016
+NIE
+BUS
+Miejski
+Poziomkowa
+50.1035
+19.9077
+NIE
+BUS
+Miejski
+Praska (n¿)
+50.0498
+19.9205
+TAK
+BUS
+Miejski
+Prawocheñskiego (n¿)
+50.0653
+20.1529
+TAK
+BUS
+Miejski
+Prokocim
+50.0175
+19.9911
+NIE
+BUS-TRAM
+Miejski
+Prokocim Rynek
+50.0232
+19.9979
+NIE
+BUS
+Miejski
+Prokocim Szpital
+50.0144
+19.9993
+NIE
+BUS-TRAM
+Miejski
+Prokocim UJ
+50.0104
+19.9925
+NIE
+BUS
+Miejski
+Prosta
+50.0253
+19.9912
+NIE
+BUS
+Miejski
+Prusy
+50.1107
+20.0819
+NIE
+BUS
+Miejski
+Prusy Szko³a (n¿)
+50.1138
+20.0851
+TAK
+BUS
+Miejski
+Prusy WSR (n¿)
+50.1191
+20.0922
+TAK
+BUS
+Miejski
+Pruszyñskiego
+50.0137
+20.0489
+NIE
+BUS
+Miejski
+Przebieczany
+49.9741
+20.1083
+NIE
+BUS
+Miejski
+Przeginia Duchowna (n¿)
+50.0344
+19.6462
+TAK
+BUS
+Miejski
+Przeginia Duchowna Bar (n¿)
+50.0196
+19.6532
+TAK
+BUS
+Miejski
+Przeginia Duchowna Centrum
+50.0224
+19.6519
+NIE
+BUS
+Miejski
+Przeginia Duchowna Szko³a (n¿)
+50.024
+19.656
+TAK
+BUS
+Miejski
+Przeginia Narodowa (n¿)
+50.0057
+19.6608
+TAK
+BUS
+Miejski
+Przeginia Narodowa Bonar (n¿)
+50.0118
+19.6576
+TAK
+BUS
+Miejski
+Przegon
+50.0565
+19.9053
+NIE
+BUS
+Miejski
+Przegorza³y
+50.0468
+19.8712
+NIE
+BUS
+Miejski
+Przegorza³y Obwodnica (n¿)
+50.0462
+19.8715
+TAK
+BUS
+Miejski
+Przewóz
+50.0419
+20.0632
+NIE
+BUS
+Miejski
+Przy KuŸni (n¿)
+50.004
+19.9903
+TAK
+BUS
+Miejski
+Przybyszewskiego
+50.0711
+19.8975
+NIE
+BUS
+Miejski
+Przybys³awice I (n¿)
+50.1635
+19.8991
+TAK
+BUS
+Miejski
+Przybys³awice II
+50.1572
+19.8952
+NIE
+BUS
+Miejski
+Przybys³awice III (n¿)
+50.1596
+19.8968
+TAK
+BUS
+Miejski
+Przykopy (n¿)
+50.0143
+19.9453
+TAK
+BUS
+Miejski
+Przylasek Rusiecki
+50.0461
+20.1639
+NIE
+BUS
+Miejski
+Przylasek Wyci¹ski (n¿)
+50.059
+20.1767
+TAK
+BUS
+Miejski
+Pr¹dnik Bia³y
+50.0964
+19.9305
+NIE
+BUS
+Miejski
+Pr¹dnik Bia³y Zachód
+50.094
+19.924
+NIE
+BUS
+Miejski
+Pr¹dnik Czerwony
+50.0967
+19.9745
+NIE
+BUS
+Miejski
+Pszona
+50.0786
+19.977
+NIE
+BUS
+Miejski
+Puszkarska
+50.0261
+19.9493
+NIE
+BUS
+Miejski
+Pychowice
+50.0367
+19.894
+NIE
+BUS
+Miejski
+Pytlasiñskiego
+49.9867
+19.9404
+NIE
+BUS
+Miejski
+P³aszowska
+50.0447
+19.9771
+NIE
+BUS
+Miejski
+P³aszów Szko³a
+50.0372
+19.9918
+NIE
+BUS
+Miejski
+P³k. D¹bka
+50.0365
+20.0063
+NIE
+BUS
+Miejski
+Pêdzichów
+50.0697
+19.9375
+NIE
+BUS-TRAM
+Miejski
+Pêkowice
+50.1247
+19.9015
+NIE
+BUS
+Miejski
+Pó³³anki
+50.0387
+20.0418
+NIE
+BUS
+Miejski
+Raciborowice
+50.117
+20.0335
+NIE
+BUS
+Miejski
+Raciborowice Centrum
+50.1179
+20.0312
+NIE
+BUS
+Miejski
+Raciborowice Granica (n¿)
+50.1186
+20.0407
+TAK
+BUS
+Miejski
+Raczkiewicza (n¿)
+50.0689
+19.8372
+TAK
+BUS
+Miejski
+Radwanowice I (n¿)
+50.141
+19.7072
+TAK
+BUS
+Miejski
+Radwanowice Krzeszowicka (n¿)
+50.1445
+19.7081
+TAK
+BUS
+Miejski
+Radwanowice Pêtla
+50.1483
+19.7093
+NIE
+BUS
+Miejski
+Radzikowskiego
+50.0833
+19.9091
+NIE
+BUS
+Miejski
+Radzikowskiego Osiedle
+50.0863
+19.894
+NIE
+BUS
+Miejski
+Radziszów Centrum
+49.9384
+19.8102
+NIE
+BUS
+Miejski
+Radziszów Cmentarz (n¿)
+49.9413
+19.8065
+TAK
+BUS
+Miejski
+Radziszów Kamionna (n¿)
+49.9468
+19.8112
+TAK
+BUS
+Miejski
+Radziszów K³adka (n¿)
+49.9406
+19.8077
+TAK
+BUS
+Miejski
+Radziszów Leœniczówka (n¿)
+49.9163
+19.8186
+TAK
+BUS
+Miejski
+Radziszów PKP
+49.9184
+19.8083
+NIE
+BUS
+Miejski
+Radziszów Podlesie (n¿)
+49.9221
+19.8212
+TAK
+BUS
+Miejski
+Radziszów Podlesie Las (n¿)
+49.9116
+19.8223
+TAK
+BUS
+Miejski
+Radziszów Podwale (n¿)
+49.9273
+19.8082
+TAK
+BUS
+Miejski
+Radziszów Stare Sanatorium (n¿)
+49.9095
+19.8275
+TAK
+BUS
+Miejski
+Radziszów Szpital
+49.9067
+19.834
+NIE
+BUS
+Miejski
+Radziszów W³osanka (n¿)
+49.9305
+19.8206
+TAK
+BUS
+Miejski
+Radziszów Za Mogi³k¹ (n¿)
+49.9385
+19.8011
+TAK
+BUS
+Miejski
+Radziszów Zacisze (n¿)
+49.9351
+19.8095
+TAK
+BUS
+Miejski
+Radziszów Zadworze (n¿)
+49.9359
+19.8161
+TAK
+BUS
+Miejski
+Radziszów Zawodzie (n¿)
+49.9214
+19.8075
+TAK
+BUS
+Miejski
+Rajsko
+49.9874
+19.9685
+NIE
+BUS
+Miejski
+Rakowicka
+50.0706
+19.9543
+NIE
+BUS-TRAM
+Miejski
+Ratajów Skrzy¿owanie (n¿)
+50.2309
+20.0821
+TAK
+BUS
+Miejski
+Reduta (n¿)
+50.0983
+19.9748
+TAK
+BUS
+Miejski
+Resztówka
+50.0985
+20.1786
+NIE
+BUS
+Miejski
+Reymana
+50.0614
+19.9112
+NIE
+BUS-TRAM
+Miejski
+Rodzinna
+50.0351
+19.8856
+NIE
+BUS
+Miejski
+Rondo 308. Dywizjonu
+50.0674
+20.0054
+NIE
+BUS-TRAM
+Miejski
+Rondo Barei
+50.0891
+19.9751
+NIE
+BUS
+Miejski
+Rondo Czy¿yñskie
+50.0733
+20.0189
+NIE
+BUS-TRAM
+Miejski
+Rondo Grunwaldzkie
+50.0487
+19.9314
+NIE
+BUS-TRAM
+Miejski
+Rondo Grzegórzeckie
+50.0579
+19.9603
+NIE
+BUS-TRAM
+Miejski
+Rondo Hipokratesa
+50.09
+20.0214
+NIE
+BUS-TRAM
+Miejski
+Rondo Kocmyrzowskie im. Ks. Gorzelanego
+50.0803
+20.0266
+NIE
+BUS-TRAM
+Miejski
+Rondo Matecznego
+50.0371
+19.9408
+NIE
+BUS-TRAM
+Miejski
+Rondo Mogilskie
+50.0658
+19.9596
+NIE
+BUS-TRAM
+Miejski
+Rondo M³yñskie
+50.0815
+19.9729
+NIE
+BUS
+Miejski
+Rondo Ofiar Katynia
+50.0873
+19.8928
+NIE
+BUS
+Miejski
+Rondo Piastowskie
+50.0944
+20.0112
+NIE
+BUS-TRAM
+Miejski
+Rostworowskiego
+50.0282
+19.9153
+NIE
+BUS
+Miejski
+Ruczaj
+50.0269
+19.9052
+NIE
+BUS-TRAM
+Miejski
+Rudawa (n¿)
+50.1139
+19.7092
+TAK
+BUS
+Miejski
+Rudawa Bloki (n¿)
+50.1273
+19.721
+TAK
+BUS
+Miejski
+Rudawa Koœció³
+50.1226
+19.7116
+NIE
+BUS
+Miejski
+Rudawa M³yn (n¿)
+50.1144
+19.701
+TAK
+BUS
+Miejski
+Rudawa PKP
+50.1198
+19.7135
+NIE
+BUS
+Miejski
+Rudawa Stadion (n¿)
+50.1145
+19.7114
+TAK
+BUS
+Miejski
+Rudawa Szko³a
+50.1232
+19.7065
+NIE
+BUS
+Miejski
+Rusocice Ja³owce (n¿)
+50.0021
+19.5915
+TAK
+BUS
+Miejski
+Rusocice Na Brzegu (n¿)
+49.9998
+19.602
+TAK
+BUS
+Miejski
+Rusocice Sk³ad (n¿)
+49.9947
+19.6065
+TAK
+BUS
+Miejski
+Rusocice Stacja Paliw (n¿)
+50.0049
+19.5883
+TAK
+BUS
+Miejski
+Rusocice Wieœ
+50.0012
+19.613
+NIE
+BUS
+Miejski
+Rusocice Za³êg (n¿)
+49.9978
+19.617
+TAK
+BUS
+Miejski
+Rusocice £êg (n¿)
+49.9954
+19.6183
+TAK
+BUS
+Miejski
+Ruszcza
+50.0869
+20.1465
+NIE
+BUS
+Miejski
+Rybitwy Dom Kultury
+50.0427
+20.0351
+NIE
+BUS
+Miejski
+Rybitwy Rozjazd
+50.0461
+20.0438
+NIE
+BUS
+Miejski
+Rybitwy Sklep (n¿)
+50.0415
+20.0283
+TAK
+BUS
+Miejski
+Rybna Dolna
+50.0397
+19.6341
+NIE
+BUS
+Miejski
+Rybna Droga do Sanki (n¿)
+50.065
+19.6589
+TAK
+BUS
+Miejski
+Rybna Dó³ (n¿)
+50.0441
+19.6377
+TAK
+BUS
+Miejski
+Rybna Granica (n¿)
+50.038
+19.6431
+TAK
+BUS
+Miejski
+Rybna Koœció³
+50.0494
+19.647
+NIE
+BUS
+Miejski
+Rybna Nowy Œwiat
+50.0616
+19.6567
+NIE
+BUS
+Miejski
+Rybna Nowy Œwiat Góra (n¿)
+50.0588
+19.6549
+TAK
+BUS
+Miejski
+Rybna Oœrodek Zdrowia (n¿)
+50.0414
+19.6433
+TAK
+BUS
+Miejski
+Rybna Szko³a (n¿)
+50.0541
+19.6518
+TAK
+BUS
+Miejski
+Rybna Zagórze (n¿)
+50.0328
+19.6349
+TAK
+BUS
+Miejski
+Rynek Dêbnicki
+50.0517
+19.9267
+NIE
+BUS
+Miejski
+Rynek Fa³êcki
+50.0178
+19.9243
+NIE
+BUS
+Miejski
+Rzebika
+50.0404
+19.9926
+NIE
+BUS-TRAM
+Miejski
+Rzemieœlnicza
+50.0336
+19.9387
+NIE
+BUS-TRAM
+Miejski
+Rzepakowa (n¿)
+50.0613
+20.1536
+TAK
+BUS
+Miejski
+Rzepakowa Œwietlica (n¿)
+50.0576
+20.1586
+TAK
+BUS
+Miejski
+Rzepichy (n¿)
+50.0624
+19.8355
+TAK
+BUS
+Miejski
+Rzeszotary Dworska
+49.9435
+19.9934
+NIE
+BUS
+Miejski
+Rzeszotary Panciawa (n¿)
+49.9321
+19.9934
+TAK
+BUS
+Miejski
+Rzeszotary Panciawa Pêtla
+49.9349
+19.9993
+NIE
+BUS
+Miejski
+Rzeszotary Pod Dêbin¹ (n¿)
+49.9384
+19.9678
+TAK
+BUS
+Miejski
+Rzeszotary Polanki (n¿)
+49.9452
+19.9813
+TAK
+BUS
+Miejski
+Rzeszotary Remiza (n¿)
+49.9457
+19.973
+TAK
+BUS
+Miejski
+Rzeszotary Szko³a (n¿)
+49.9382
+19.9734
+TAK
+BUS
+Miejski
+Rzeszotary Tempo (n¿)
+49.9415
+19.989
+TAK
+BUS
+Miejski
+Rzeszotary Trafo (n¿)
+49.9393
+19.9832
+TAK
+BUS
+Miejski
+Rzeszotary Zalesie (n¿)
+49.9317
+19.9807
+TAK
+BUS
+Miejski
+Rzozów Baseny (n¿)
+49.9629
+19.8063
+TAK
+BUS
+Miejski
+Rzozów I (n¿)
+49.9582
+19.8016
+TAK
+BUS
+Miejski
+Rzozów PKP (n¿)
+49.9455
+19.804
+TAK
+BUS
+Miejski
+Rzozów Skotnica (n¿)
+49.9541
+19.8008
+TAK
+BUS
+Miejski
+Rzozów Szko³a
+49.9529
+19.7951
+NIE
+BUS
+Miejski
+Rzozów Zagonnie (n¿)
+49.9494
+19.8011
+TAK
+BUS
+Miejski
+Rz¹ska Autostrada (n¿)
+50.1055
+19.8358
+TAK
+BUS
+Miejski
+Rz¹ska Jednostka Wojskowa (n¿)
+50.0996
+19.8556
+TAK
+BUS
+Miejski
+Rz¹ska Szko³a
+50.0987
+19.8385
+NIE
+BUS
+Miejski
+Rz¹ska UR (n¿)
+50.0968
+19.8455
+TAK
+BUS
+Miejski
+R¹czna Ba¿anty (n¿)
+50.0165
+19.7759
+TAK
+BUS
+Miejski
+R¹czna Boisko (n¿)
+50.0035
+19.7667
+TAK
+BUS
+Miejski
+R¹czna Dzikowiec (n¿)
+50.0174
+19.7461
+TAK
+BUS
+Miejski
+R¹czna Kapliczka (n¿)
+50.0155
+19.7687
+TAK
+BUS
+Miejski
+R¹czna Koœció³ (n¿)
+50.011
+19.7568
+TAK
+BUS
+Miejski
+R¹czna OSP (n¿)
+50.008
+19.7675
+TAK
+BUS
+Miejski
+R¹czna Osiedle (n¿)
+50.0012
+19.7555
+TAK
+BUS
+Miejski
+R¹czna Podlas (n¿)
+50.0137
+19.7449
+TAK
+BUS
+Miejski
+R¿¹ka
+50.0063
+20.0112
+NIE
+BUS
+Miejski
+Ró¿yckiego
+50.0884
+19.9113
+NIE
+BUS
+Miejski
+Sadowie Wiadukt (n¿)
+50.1761
+20.0667
+TAK
+BUS
+Miejski
+Salwator
+50.0527
+19.9137
+NIE
+BUS-TRAM
+Miejski
+Sapalskiego (n¿)
+49.9905
+19.864
+TAK
+BUS
+Miejski
+Saska
+50.0444
+19.9836
+NIE
+BUS
+Miejski
+Sawiczewskich
+49.99
+19.9463
+NIE
+BUS
+Miejski
+Sidzina
+49.9885
+19.872
+NIE
+BUS
+Miejski
+Sieborowice (n¿)
+50.1593
+20.0358
+TAK
+BUS
+Miejski
+Siejówka (n¿)
+50.0571
+20.1811
+TAK
+BUS
+Miejski
+Sielanka
+50.0652
+19.8781
+NIE
+BUS
+Miejski
+Sieroszewskiego (n¿)
+50.0661
+20.0512
+TAK
+BUS
+Miejski
+Siewna
+50.0989
+19.9474
+NIE
+BUS
+Miejski
+Siewna Wiadukt
+50.0964
+19.9472
+NIE
+BUS
+Miejski
+Sikorki
+50.0627
+20.0227
+NIE
+BUS
+Miejski
+Siwka (n¿)
+50.0569
+20.0149
+TAK
+BUS
+Miejski
+Skalna (n¿)
+50.0389
+19.831
+TAK
+BUS
+Miejski
+Skar¿yñskiego
+50.084
+19.9965
+NIE
+BUS
+Miejski
+Skawina
+49.9685
+19.8298
+NIE
+BUS
+Miejski
+Skawina 29 Listopada
+49.9729
+19.8345
+NIE
+BUS
+Miejski
+Skawina Ajka
+49.9713
+19.8293
+NIE
+BUS
+Miejski
+Skawina Bukowska (n¿)
+49.9616
+19.8364
+TAK
+BUS
+Miejski
+Skawina Centrum Sportowe
+49.9712
+19.8254
+NIE
+BUS
+Miejski
+Skawina Cmentarz
+49.9752
+19.8311
+NIE
+BUS
+Miejski
+Skawina Cmentarz Komunalny
+49.9679
+19.8528
+NIE
+BUS
+Miejski
+Skawina Elektrownia (n¿)
+49.9729
+19.8041
+TAK
+BUS
+Miejski
+Skawina Energetyków (n¿)
+49.9818
+19.8102
+TAK
+BUS
+Miejski
+Skawina Energetyków Przejazd PKP (n¿)
+49.9742
+19.8088
+TAK
+BUS
+Miejski
+Skawina Graniczna (n¿)
+49.9766
+19.8612
+TAK
+BUS
+Miejski
+Skawina Koncentraty
+49.9723
+19.8156
+NIE
+BUS
+Miejski
+Skawina Kopernika (n¿)
+49.9661
+19.8504
+TAK
+BUS
+Miejski
+Skawina Korabnicka (n¿)
+49.9742
+19.8476
+TAK
+BUS
+Miejski
+Skawina Korabnicka Szko³a (n¿)
+49.9742
+19.8369
+TAK
+BUS
+Miejski
+Skawina Korabniki
+49.9748
+19.8584
+NIE
+BUS
+Miejski
+Skawina Nad Potokiem (n¿)
+49.9543
+19.8152
+TAK
+BUS
+Miejski
+Skawina Ofiar Katynia
+49.9768
+19.7845
+NIE
+BUS
+Miejski
+Skawina Ogrody (n¿)
+49.9688
+19.8435
+TAK
+BUS
+Miejski
+Skawina Os.Radziszowskie (n¿)
+49.9623
+19.8167
+TAK
+BUS
+Miejski
+Skawina Piastowska (n¿)
+49.9874
+19.8062
+TAK
+BUS
+Miejski
+Skawina Pileckiego
+49.9788
+19.7906
+NIE
+BUS
+Miejski
+Skawina Pi³sudskiego
+49.9724
+19.7993
+NIE
+BUS
+Miejski
+Skawina Podbory (n¿)
+49.9686
+19.7849
+TAK
+BUS
+Miejski
+Skawina Podgórki
+49.9968
+19.8188
+NIE
+BUS
+Miejski
+Skawina Podlipki
+49.9877
+19.8431
+NIE
+BUS
+Miejski
+Skawina Popie³uszki
+49.9745
+19.8308
+NIE
+BUS
+Miejski
+Skawina Radziszowska (n¿)
+49.9693
+19.8226
+TAK
+BUS
+Miejski
+Skawina Robotnicza
+49.9816
+19.8013
+NIE
+BUS
+Miejski
+Skawina Rynek
+49.9753
+19.8279
+NIE
+BUS
+Miejski
+Skawina Rzepnik
+49.9835
+19.8378
+NIE
+BUS
+Miejski
+Skawina Samborek Most
+49.9889
+19.8111
+NIE
+BUS
+Miejski
+Skawina Starostwo Powiatowe
+49.9724
+19.8371
+NIE
+BUS
+Miejski
+Skawina Szko³a
+49.9756
+19.8229
+NIE
+BUS
+Miejski
+Skawina S¹d
+49.9759
+19.8178
+NIE
+BUS
+Miejski
+Skawina Tyniecka
+49.9844
+19.8165
+NIE
+BUS
+Miejski
+Skawina Tyniecka Osiedle
+49.978
+19.82
+NIE
+BUS
+Miejski
+Skawina Tyniecka Rzepnik (n¿)
+49.9913
+19.8136
+TAK
+BUS
+Miejski
+Skawina Wojska Polskiego
+49.9868
+19.8142
+NIE
+BUS
+Miejski
+Skawina Wyspiañskiego
+49.9745
+19.8565
+NIE
+BUS
+Miejski
+Skawina Wyspiañskiego Szko³a (n¿)
+49.9718
+19.8536
+TAK
+BUS
+Miejski
+Skawina Zachodnia (n¿)
+49.973
+19.807
+TAK
+BUS
+Miejski
+Skawina ¯wirowa (n¿)
+49.987
+19.8036
+TAK
+BUS
+Miejski
+Skawina ¯wirownia (n¿)
+49.9826
+19.8071
+TAK
+BUS
+Miejski
+Ska³a Kmity (n¿)
+50.0982
+19.8053
+TAK
+BUS
+Miejski
+Skotniki
+50.0066
+19.8739
+NIE
+BUS
+Miejski
+Skotniki Koœció³
+50.0088
+19.8745
+NIE
+BUS
+Miejski
+Skotniki Szko³a
+50.0164
+19.8755
+NIE
+BUS
+Miejski
+Skoœna
+50.0117
+19.8988
+NIE
+BUS
+Miejski
+Skrajna (n¿)
+50.0923
+19.9182
+TAK
+BUS
+Miejski
+Skrzeszowice OSP Boisko
+50.1886
+20.1444
+NIE
+BUS
+Miejski
+Skrzy¿owanie do Podchruœcia (n¿)
+50.1134
+19.8726
+TAK
+BUS
+Miejski
+Smardzowice
+50.1919
+19.8538
+NIE
+BUS
+Miejski
+Smardzowice Wo³ówka (n¿)
+50.1867
+19.8546
+TAK
+BUS
+Miejski
+Smoleñskiego
+49.9815
+19.9197
+NIE
+BUS
+Miejski
+Smolki
+50.0415
+19.9431
+NIE
+BUS-TRAM
+Miejski
+Soboniowice
+49.9796
+19.9901
+NIE
+BUS
+Miejski
+Solvay
+50.0167
+19.9298
+NIE
+BUS-TRAM
+Miejski
+So³tysowska (n¿)
+50.0669
+20.0121
+TAK
+BUS
+Miejski
+So³tysowska Osiedle
+50.0642
+20.019
+NIE
+BUS
+Miejski
+So³tysowska Zak³ady
+50.0641
+20.0148
+NIE
+BUS
+Miejski
+Spadochroniarzy
+50.0799
+19.9815
+NIE
+BUS
+Miejski
+Sp³awy
+50.0936
+20.1468
+NIE
+BUS
+Miejski
+Stachiewicza
+50.0849
+19.9163
+NIE
+BUS
+Miejski
+Stani¹tki Wiadukt (n¿)
+50.0158
+20.1774
+TAK
+BUS
+Miejski
+Stara Wola
+50.0617
+19.8709
+NIE
+BUS
+Miejski
+Stare Wiœlisko
+50.0595
+20.0502
+NIE
+BUS
+Miejski
+Starowiœlna
+50.0573
+19.9445
+NIE
+BUS-TRAM
+Miejski
+Stary Kleparz
+50.0663
+19.9397
+NIE
+BUS-TRAM
+Miejski
+Stawowa
+50.0951
+19.8926
+NIE
+BUS
+Miejski
+Stella-Sawickiego
+50.0743
+20.0047
+NIE
+BUS-TRAM
+Miejski
+Stoczniowców
+50.0495
+19.9812
+NIE
+BUS
+Miejski
+Stoja³owskiego
+50.0053
+19.9546
+NIE
+BUS
+Miejski
+Stradom
+50.0515
+19.9414
+NIE
+BUS-TRAM
+Miejski
+Struga
+50.0745
+20.0462
+NIE
+BUS-TRAM
+Miejski
+Strycharska
+50.0434
+19.9766
+NIE
+BUS
+Miejski
+Strzelców
+50.0933
+19.9756
+NIE
+BUS
+Miejski
+Strzelnica
+50.0637
+19.8839
+NIE
+BUS
+Miejski
+Sucha
+50.0246
+19.9421
+NIE
+BUS
+Miejski
+Sucharskiego (n¿)
+50.0184
+20.0427
+TAK
+BUS
+Miejski
+Suche Stawy
+50.0675
+20.059
+NIE
+BUS-TRAM
+Miejski
+Suchy Jar (n¿)
+50.0697
+20.1075
+TAK
+BUS
+Miejski
+Sudolska
+50.092
+19.9646
+NIE
+BUS
+Miejski
+Sulechów (n¿)
+50.122
+20.0968
+TAK
+BUS
+Miejski
+Surzyckiego
+50.0396
+20.0036
+NIE
+BUS
+Miejski
+Su³kowskiego
+50.0235
+19.9688
+NIE
+BUS
+Miejski
+Su³ków (n¿)
+49.9994
+20.1116
+TAK
+BUS
+Miejski
+Swoszowice Autostrada (n¿)
+50.0011
+19.9414
+TAK
+BUS
+Miejski
+Swoszowice Poczta
+49.9903
+19.9414
+NIE
+BUS
+Miejski
+Swoszowice Szko³a
+49.9943
+19.946
+NIE
+BUS
+Miejski
+Szafrañska
+50.0503
+20.0096
+NIE
+BUS
+Miejski
+Szczeciñska
+50.0428
+19.9898
+NIE
+BUS
+Miejski
+Szczegów
+49.9932
+19.9963
+NIE
+BUS
+Miejski
+Szczyglice
+50.0933
+19.8046
+NIE
+BUS
+Miejski
+Szczyglice Autostrada
+50.093
+19.8156
+NIE
+BUS
+Miejski
+Szczyglice Dom Kultury
+50.0937
+19.8081
+NIE
+BUS
+Miejski
+Szczyglice Most (n¿)
+50.0877
+19.8179
+TAK
+BUS
+Miejski
+Szczyglice Podkamycze
+50.0915
+19.8294
+NIE
+BUS
+Miejski
+Szparagowa
+50.0432
+20.0452
+NIE
+BUS
+Miejski
+Szpital Jana Paw³a II
+50.0889
+19.9381
+NIE
+BUS
+Miejski
+Szpital Narutowicza
+50.0807
+19.9378
+NIE
+BUS-TRAM
+Miejski
+Szpital Okulistyczny
+50.0995
+20.0638
+NIE
+BUS
+Miejski
+Szpital Rydygiera
+50.0927
+20.0216
+NIE
+BUS
+Miejski
+Szpital ¯eromskiego
+50.0664
+20.047
+NIE
+BUS
+Miejski
+Szwedzka
+50.0466
+19.925
+NIE
+BUS-TRAM
+Miejski
+Szyce I (n¿)
+50.1512
+19.8534
+TAK
+BUS
+Miejski
+Szyce II (n¿)
+50.1418
+19.8632
+TAK
+BUS
+Miejski
+Szymañskiego (n¿)
+50.0751
+20.14
+TAK
+BUS
+Miejski
+S³awka (n¿)
+50.0257
+19.9601
+TAK
+BUS
+Miejski
+S³omczyñskiego
+50.0984
+19.9587
+NIE
+BUS
+Miejski
+S³omiana
+50.0413
+19.9241
+NIE
+BUS-TRAM
+Miejski
+S³omniki Koœciuszki
+50.2433
+20.0828
+NIE
+BUS
+Miejski
+S³omniki Osiedle
+50.2452
+20.0851
+NIE
+BUS
+Miejski
+S³omniki Rynek
+50.2407
+20.0806
+NIE
+BUS
+Miejski
+S³omniki Zag³oby (n¿)
+50.2344
+20.0821
+TAK
+BUS
+Miejski
+S³ona Woda
+50.0034
+20.0034
+NIE
+BUS
+Miejski
+S³oneckiego
+50.0895
+19.9766
+NIE
+BUS
+Miejski
+S³onecznikowa
+50.0598
+19.8945
+NIE
+BUS
+Miejski
+Œciejowice Granica (n¿)
+50.0112
+19.7754
+TAK
+BUS
+Miejski
+Œciejowice Koœciel (n¿)
+49.9988
+19.7797
+TAK
+BUS
+Miejski
+Œciejowice Na Bagnach (n¿)
+50.0022
+19.7784
+TAK
+BUS
+Miejski
+Œciejowice Remiza (n¿)
+50.0062
+19.7789
+TAK
+BUS
+Miejski
+Œlaskiego (n¿)
+50.0255
+19.8506
+TAK
+BUS
+Miejski
+Œliwiaka (n¿)
+50.0379
+20.0594
+TAK
+BUS
+Miejski
+Œliwiaka Zak³ady
+50.038
+20.0534
+NIE
+BUS
+Miejski
+Œlósarczyka
+50.0096
+20.0417
+NIE
+BUS
+Miejski
+Œw.Wawrzyñca
+50.0511
+19.9511
+NIE
+BUS-TRAM
+Miejski
+Œwidziñskiego (n¿)
+50.0105
+20.0325
+TAK
+BUS
+Miejski
+Œwi¹tniki Górne Bielowicza Szko³a
+49.9352
+19.9631
+NIE
+BUS
+Miejski
+Œwi¹tniki Górne Buk (n¿)
+49.9351
+19.9343
+TAK
+BUS
+Miejski
+Œwi¹tniki Górne Centrum
+49.9342
+19.9532
+NIE
+BUS
+Miejski
+Œwi¹tniki Górne Krakowska (n¿)
+49.9384
+19.9433
+TAK
+BUS
+Miejski
+Œwi¹tniki Górne Piasna Górka (n¿)
+49.932
+19.9738
+TAK
+BUS
+Miejski
+Œwi¹tniki Górne Skrzy¿owanie (n¿)
+49.9343
+19.967
+TAK
+BUS
+Miejski
+Œwi¹tniki Górne Urz¹d Miasta i Gminy
+49.9345
+19.9454
+NIE
+BUS
+Miejski
+TAURON Arena Kraków
+50.0669
+19.9886
+NIE
+BUS
+Miejski
+TAURON Arena Kraków Al. Pokoju
+50.0642
+19.989
+NIE
+BUS-TRAM
+Miejski
+TAURON Arena Kraków Al. Pokoju (n¿)
+50.0648
+19.9894
+TAK
+BUS
+Miejski
+TAURON Arena Kraków Wieczysta
+50.0718
+19.9838
+NIE
+BUS-TRAM
+Miejski
+Takliñskiego (n¿)
+49.9867
+19.9093
+TAK
+BUS
+Miejski
+Teatr Bagatela
+50.0631
+19.9326
+NIE
+BUS-TRAM
+Miejski
+Teatr Ludowy
+50.0823
+20.0327
+NIE
+BUS-TRAM
+Miejski
+Teatr S³owackiego
+50.0646
+19.9456
+NIE
+BUS-TRAM
+Miejski
+Teatr Variété
+50.0588
+19.9625
+NIE
+BUS-TRAM
+Miejski
+Teligi
+50.0166
+20.0073
+NIE
+BUS-TRAM
+Miejski
+Tischnera
+50.0294
+19.9452
+NIE
+BUS
+Miejski
+Tomaszkowice
+49.9758
+20.0992
+NIE
+BUS
+Miejski
+Tomaszowice
+50.1344
+19.8417
+NIE
+BUS
+Miejski
+Tomaszowice Gliniki (n¿)
+50.1349
+19.8315
+TAK
+BUS
+Miejski
+Tomaszowice I (n¿)
+50.1353
+19.8482
+TAK
+BUS
+Miejski
+Tomaszowice Kolberga (n¿)
+50.1347
+19.8369
+TAK
+BUS
+Miejski
+Tomaszowice Wedonka (n¿)
+50.1336
+19.8554
+TAK
+BUS
+Miejski
+Tondosa (n¿)
+50.0606
+19.893
+TAK
+BUS
+Miejski
+Tonie
+50.1097
+19.8859
+NIE
+BUS
+Miejski
+Tonie Gliniki (n¿)
+50.1169
+19.8942
+TAK
+BUS
+Miejski
+Tonie K¹ty (n¿)
+50.1159
+19.9013
+TAK
+BUS
+Miejski
+Tonie Skrzy¿owanie
+50.1127
+19.8985
+NIE
+BUS
+Miejski
+Tor Kajakowy
+50.0324
+19.829
+NIE
+BUS
+Miejski
+Torfowa
+50.0179
+19.9052
+NIE
+BUS
+Miejski
+Trojadyn Skrzy¿owanie (n¿)
+50.1381
+19.8689
+TAK
+BUS
+Miejski
+Trojanowice
+50.1396
+19.8988
+NIE
+BUS
+Miejski
+Trojanowice Krakowska (n¿)
+50.1373
+19.913
+TAK
+BUS
+Miejski
+Trojanowice Pêtla
+50.141
+19.9108
+NIE
+BUS
+Miejski
+Trojanowice Strugi (n¿)
+50.1346
+19.9055
+TAK
+BUS
+Miejski
+Truskawkowa (n¿)
+50.0478
+20.1281
+TAK
+BUS
+Miejski
+Tr¹bki I (n¿)
+49.9634
+20.1418
+TAK
+BUS
+Miejski
+Tr¹bki OSP
+49.958
+20.1466
+NIE
+BUS
+Miejski
+Tr¹bki P+R
+49.9573
+20.1471
+NIE
+BUS
+Miejski
+Tuchowska
+50.0133
+19.9666
+NIE
+BUS
+Miejski
+Turowicza (n¿)
+50.019
+19.9455
+TAK
+BUS
+Miejski
+Tyniec
+50.0155
+19.8089
+NIE
+BUS
+Miejski
+Tyniec Kamienio³om
+50.0083
+19.8145
+NIE
+BUS
+Miejski
+Tyniecka Autostrada (n¿)
+50.0217
+19.827
+TAK
+BUS
+Miejski
+UR Aleja 29 Listopada
+50.0822
+19.9517
+NIE
+BUS
+Miejski
+UR Balicka
+50.0809
+19.8655
+NIE
+BUS
+Miejski
+Ugorek
+50.0771
+19.9842
+NIE
+BUS
+Miejski
+Ujazd Pêtla
+50.1358
+19.8203
+NIE
+BUS
+Miejski
+Uniwersytet Ekonomiczny
+50.0676
+19.9522
+NIE
+BUS-TRAM
+Miejski
+Uniwersytet Jagielloñski
+50.0603
+19.9306
+NIE
+BUS-TRAM
+Miejski
+Uniwersytet Pedagogiczny
+50.0741
+19.9108
+NIE
+BUS-TRAM
+Miejski
+Urz¹d Marsza³kowski
+50.0789
+19.9223
+NIE
+BUS
+Miejski
+Urz¹d Skarbowy Nowa Huta
+50.1046
+20.0122
+NIE
+BUS
+Miejski
+Urzêdnicza
+50.0718
+19.92
+NIE
+BUS-TRAM
+Miejski
+Wadowska (n¿)
+50.0965
+20.1191
+TAK
+BUS
+Miejski
+Wadów
+50.0974
+20.1249
+NIE
+BUS
+Miejski
+Wadów Dzia³ki (n¿)
+50.0928
+20.14
+TAK
+BUS
+Miejski
+Wadów Glinik (n¿)
+50.0928
+20.1331
+TAK
+BUS
+Miejski
+Wadów Os.Kolejowe
+50.097
+20.1288
+NIE
+BUS
+Miejski
+Wadów Osiedle (n¿)
+50.1056
+20.1221
+TAK
+BUS
+Miejski
+Wadów Szko³a
+50.1002
+20.1259
+NIE
+BUS
+Miejski
+Walcownia
+50.0897
+20.0838
+NIE
+BUS
+Miejski
+Warcha³owskiego
+49.9903
+19.8595
+NIE
+BUS
+Miejski
+Warszewicza (n¿)
+49.9978
+19.946
+TAK
+BUS
+Miejski
+Wa³y Wiœlane (n¿)
+50.0275
+19.8472
+TAK
+BUS
+Miejski
+Wa¿ewskiego
+49.9838
+19.9128
+NIE
+BUS
+Miejski
+Wañkowicza
+50.0869
+20.0474
+NIE
+BUS-TRAM
+Miejski
+Weigla
+50.013
+20.0431
+NIE
+BUS
+Miejski
+Wesele
+50.0789
+19.8979
+NIE
+BUS-TRAM
+Miejski
+Wiadukty
+50.0883
+20.0568
+NIE
+BUS-TRAM
+Miejski
+Wiadukty (n¿)
+50.0881
+20.056
+TAK
+BUS
+Miejski
+Wielicka Granica Miasta
+49.9999
+20.028
+NIE
+BUS
+Miejski
+Wieliczka Cmentarz
+49.9873
+20.0644
+NIE
+BUS
+Miejski
+Wieliczka Gdowska
+49.9815
+20.0704
+NIE
+BUS
+Miejski
+Wieliczka Goliana
+49.9852
+20.0615
+NIE
+BUS
+Miejski
+Wieliczka Kampus
+49.9864
+20.0749
+NIE
+BUS
+Miejski
+Wieliczka Klaœnieñska (n¿)
+49.9812
+20.0563
+TAK
+BUS
+Miejski
+Wieliczka Kopalnia Soli
+49.9842
+20.0571
+NIE
+BUS
+Miejski
+Wieliczka Koœció³
+49.9885
+20.0557
+NIE
+BUS
+Miejski
+Wieliczka Niepo³omska (n¿)
+49.9923
+20.0858
+TAK
+BUS
+Miejski
+Wieliczka Os.Asnyka
+49.9825
+20.0697
+NIE
+BUS
+Miejski
+Wieliczka Park
+49.9873
+20.0497
+NIE
+BUS
+Miejski
+Wieliczka Polna (n¿)
+49.98
+20.0779
+TAK
+BUS
+Miejski
+Wieliczka Rynek
+49.9844
+20.0634
+NIE
+BUS
+Miejski
+Wieliczka Solne Miasto
+49.9853
+20.0462
+NIE
+BUS
+Miejski
+Wieliczka Stacja Paliw
+49.993
+20.043
+NIE
+BUS
+Miejski
+Wieliczka S¹d
+49.9807
+20.0494
+NIE
+BUS
+Miejski
+Wielka Wieœ (n¿)
+50.1574
+19.8422
+TAK
+BUS
+Miejski
+Wielkie Drogi (n¿)
+49.9588
+19.7216
+TAK
+BUS
+Miejski
+Wielkie Drogi Oœrodek Zdrowia (n¿)
+49.959
+19.7019
+TAK
+BUS
+Miejski
+Wielkie Drogi PKP (n¿)
+49.9578
+19.7115
+TAK
+BUS
+Miejski
+Wielkie Drogi Szko³a (n¿)
+49.9607
+19.6952
+TAK
+BUS
+Miejski
+Wielkie Drogi Trzebol (n¿)
+49.9607
+19.6875
+TAK
+BUS
+Miejski
+Wiklinowa (n¿)
+50.0559
+20.0251
+TAK
+BUS
+Miejski
+Wiktorowice Centrum (n¿)
+50.1375
+20.061
+TAK
+BUS
+Miejski
+Wiktorowice Granica (n¿)
+50.1411
+20.0569
+TAK
+BUS
+Miejski
+Wiktorowice Rozlewnia Wód (n¿)
+50.1321
+20.0646
+TAK
+BUS
+Miejski
+Wiktorowice Skrzy¿owanie (n¿)
+50.1325
+20.0582
+TAK
+BUS
+Miejski
+Wileñska
+50.0823
+19.9538
+NIE
+BUS
+Miejski
+Wilga (n¿)
+49.9951
+19.9304
+TAK
+BUS
+Miejski
+Winnicka (n¿)
+50.0198
+19.8722
+TAK
+BUS
+Miejski
+Witkowice
+50.1087
+19.9432
+NIE
+BUS
+Miejski
+Witkowice Nowe
+50.1054
+19.944
+NIE
+BUS
+Miejski
+Witosa
+50.0123
+19.9569
+NIE
+BUS-TRAM
+Miejski
+Wiœlicka
+50.0876
+20.0021
+NIE
+BUS
+Miejski
+Wiêckowice (n¿)
+50.1379
+19.7698
+TAK
+BUS
+Miejski
+Wiêckowice Lipka (n¿)
+50.1337
+19.779
+TAK
+BUS
+Miejski
+Wiêc³awice Stare Centrum (n¿)
+50.1545
+20.0267
+TAK
+BUS
+Miejski
+Wiêc³awice Stare Wysy³ek (n¿)
+50.1543
+20.0337
+TAK
+BUS
+Miejski
+Wlotowa
+50.0194
+19.9881
+NIE
+BUS-TRAM
+Miejski
+Wodoci¹gi (n¿)
+50.0418
+19.8412
+TAK
+BUS
+Miejski
+Wodoci¹gowa (n¿)
+50.0481
+19.8967
+TAK
+BUS
+Miejski
+Wola Batorska Borek (n¿)
+50.0529
+20.2951
+TAK
+BUS
+Miejski
+Wola Batorska Cmentarz (n¿)
+50.0527
+20.2899
+TAK
+BUS
+Miejski
+Wola Batorska Koœció³ (n¿)
+50.053
+20.2769
+TAK
+BUS
+Miejski
+Wola Batorska Mikoniowiec (n¿)
+50.0576
+20.2983
+TAK
+BUS
+Miejski
+Wola Batorska Ruskie (n¿)
+50.0531
+20.2576
+TAK
+BUS
+Miejski
+Wola Batorska Zamoglice (n¿)
+50.064
+20.3016
+TAK
+BUS
+Miejski
+Wola Batorska ¯wirownia (n¿)
+50.0527
+20.2657
+TAK
+BUS
+Miejski
+Wola Duchacka
+50.0211
+19.9621
+NIE
+BUS
+Miejski
+Wola Luborzycka Dzia³ki (n¿)
+50.1553
+20.1158
+TAK
+BUS
+Miejski
+Wola Luborzycka Las (n¿)
+50.1643
+20.1188
+TAK
+BUS
+Miejski
+Wola Luborzycka Skrzy¿owanie (n¿)
+50.1596
+20.1167
+TAK
+BUS
+Miejski
+Wola Radziszowska Centrum
+49.9077
+19.7872
+NIE
+BUS
+Miejski
+Wola Radziszowska Chorzyny (n¿)
+49.9041
+19.7772
+TAK
+BUS
+Miejski
+Wola Radziszowska Kapelanka (n¿)
+49.9042
+19.8257
+TAK
+BUS
+Miejski
+Wola Radziszowska Lipki (n¿)
+49.91
+19.7993
+TAK
+BUS
+Miejski
+Wola Radziszowska Ma³a Ostra Góra (n¿)
+49.9069
+19.8137
+TAK
+BUS
+Miejski
+Wola Radziszowska Most (n¿)
+49.9077
+19.804
+TAK
+BUS
+Miejski
+Wola Radziszowska PodgaŸle (n¿)
+49.9099
+19.7937
+TAK
+BUS
+Miejski
+Wola Radziszowska Pêtla
+49.9025
+19.7684
+NIE
+BUS
+Miejski
+Wola Zabierzowska (n¿)
+50.0706
+20.3358
+TAK
+BUS
+Miejski
+Wola Zachariaszowska Szko³a
+50.1504
+19.9316
+NIE
+BUS
+Miejski
+Wola Zachariaszowska S³oneczna
+50.1556
+19.9364
+NIE
+BUS
+Miejski
+Wolica (n¿)
+50.0633
+20.194
+TAK
+BUS
+Miejski
+Wolica Koœció³ (n¿)
+50.0553
+20.202
+TAK
+BUS
+Miejski
+Wolica Las
+50.0564
+20.2023
+NIE
+BUS
+Miejski
+Wolica Most
+50.0521
+20.2062
+NIE
+BUS
+Miejski
+Wolica Sklep (n¿)
+50.0558
+20.1931
+TAK
+BUS
+Miejski
+Wo³owice (n¿)
+49.9897
+19.7274
+TAK
+BUS
+Miejski
+Wo³owice Grotowa (n¿)
+49.9837
+19.7591
+TAK
+BUS
+Miejski
+Wo³owice Grotowa Skrzy¿owanie (n¿)
+49.9846
+19.7547
+TAK
+BUS
+Miejski
+Wo³owice Kapliczka
+49.9865
+19.7279
+NIE
+BUS
+Miejski
+Wo³owice Niwa (n¿)
+49.9885
+19.7024
+TAK
+BUS
+Miejski
+Wo³owice Pichonówka (n¿)
+49.9886
+19.7129
+TAK
+BUS
+Miejski
+Wo³owice Sklep (n¿)
+49.9895
+19.7212
+TAK
+BUS
+Miejski
+Wo³owice Szko³a
+49.9937
+19.731
+NIE
+BUS
+Miejski
+Wo³owice Zawierzbie (n¿)
+49.9817
+19.745
+TAK
+BUS
+Miejski
+Wroc³awska
+50.0765
+19.928
+NIE
+BUS
+Miejski
+Wrony
+49.9955
+19.8526
+NIE
+BUS
+Miejski
+Wrz¹sowice Bonifraterska  (n¿)
+49.9484
+19.9469
+TAK
+BUS
+Miejski
+Wrz¹sowice Centrum
+49.9599
+19.944
+NIE
+BUS
+Miejski
+Wrz¹sowice Kowaleca (n¿)
+49.9543
+19.9456
+TAK
+BUS
+Miejski
+Wrz¹sowice Nad Wilg¹
+49.9678
+19.9524
+NIE
+BUS
+Miejski
+Wrz¹sowice Pileckiego (n¿)
+49.9573
+19.9463
+TAK
+BUS
+Miejski
+Wrz¹sowice Pod Ska³¹ (n¿)
+49.9614
+19.9544
+TAK
+BUS
+Miejski
+Wrz¹sowice Rondo
+49.9713
+19.9467
+NIE
+BUS
+Miejski
+Wrz¹sowice Wrzosowa (n¿)
+49.9634
+19.9459
+TAK
+BUS
+Miejski
+Wrz¹sowice Zielona (n¿)
+49.9424
+19.9435
+TAK
+BUS
+Miejski
+Wróblowice
+49.9795
+19.9444
+NIE
+BUS
+Miejski
+Wróblowice Szko³a
+49.9844
+19.9446
+NIE
+BUS
+Miejski
+Wró¿enice
+50.1136
+20.1896
+NIE
+BUS
+Miejski
+Wró¿enice Górka (n¿)
+50.1128
+20.1825
+TAK
+BUS
+Miejski
+Wró¿enicka (n¿)
+50.1123
+20.1782
+TAK
+BUS
+Miejski
+Wybickiego
+50.084
+19.9276
+NIE
+BUS
+Miejski
+Wyci¹ska (n¿)
+50.0696
+20.163
+TAK
+BUS
+Miejski
+Wyci¹¿e (n¿)
+50.0767
+20.1532
+TAK
+BUS
+Miejski
+Wyci¹¿e Sklep (n¿)
+50.0721
+20.1584
+TAK
+BUS
+Miejski
+Wyci¹¿e Wiadukt (n¿)
+50.0791
+20.1723
+TAK
+BUS
+Miejski
+Wyci¹¿e Zachód (n¿)
+50.0778
+20.1628
+TAK
+BUS
+Miejski
+Wydzia³ Farmaceutyczny UJ
+50.0119
+19.9931
+NIE
+BUS
+Miejski
+Wyki
+50.0927
+19.9222
+NIE
+BUS
+Miejski
+Wysio³ek Luborzycki (n¿)
+50.1589
+20.1038
+TAK
+BUS
+Miejski
+Wysio³ek Luborzycki Kapkazy (n¿)
+50.1548
+20.0998
+TAK
+BUS
+Miejski
+Wysio³ek Luborzycki Radwany (n¿)
+50.1637
+20.1001
+TAK
+BUS
+Miejski
+Wysio³ek Luborzycki Skrzy¿owanie (n¿)
+50.1518
+20.1051
+TAK
+BUS
+Miejski
+Wys³ouchów
+50.0082
+19.9533
+NIE
+BUS
+Miejski
+Wzgórza Krzes³awickie
+50.0948
+20.0653
+NIE
+BUS-TRAM
+Miejski
+W³adys³awa Jagie³³y
+50.095
+20.0401
+NIE
+BUS
+Miejski
+W³adys³awa £okietka
+50.0863
+19.9229
+NIE
+BUS
+Miejski
+W³osañ Centrum
+49.9136
+19.9029
+NIE
+BUS
+Miejski
+W³osañ Dzia³ Wschodni (n¿)
+49.9136
+19.903
+TAK
+BUS
+Miejski
+W³osañ Kopañ (n¿)
+49.9236
+19.92
+TAK
+BUS
+Miejski
+W³osañ Krzy¿ówka (n¿)
+49.918
+19.9144
+TAK
+BUS
+Miejski
+Wêgrzce
+50.1205
+19.9673
+NIE
+BUS
+Miejski
+Wêgrzce Bosutów (n¿)
+50.1073
+19.9854
+TAK
+BUS
+Miejski
+Wêgrzce Bosutów Sudó³ (n¿)
+50.1096
+19.9801
+TAK
+BUS
+Miejski
+Wêgrzce B³onie
+50.1255
+19.9748
+NIE
+BUS
+Miejski
+Wêgrzce Centrum
+50.1201
+19.9742
+NIE
+BUS
+Miejski
+Wêgrzce Centrum Medyczne (n¿)
+50.1167
+19.9683
+TAK
+BUS
+Miejski
+Wêgrzce Magiczne Wzgórze (n¿)
+50.1137
+19.9751
+TAK
+BUS
+Miejski
+Wêgrzce Pêtla
+50.1286
+19.975
+NIE
+BUS
+Miejski
+Wêgrzce Starostwo Powiatowe
+50.1149
+19.9672
+NIE
+BUS
+Miejski
+Wêgrzce Trzecia Góra (n¿)
+50.11
+19.9659
+TAK
+BUS
+Miejski
+Wêgrzce Wielkie II (n¿)
+50.0147
+20.1059
+TAK
+BUS
+Miejski
+Wêgrzce Wielkie III (n¿)
+50.0149
+20.1107
+TAK
+BUS
+Miejski
+Wêgrzce Wielkie Pêtla
+50.0149
+20.1152
+NIE
+BUS
+Miejski
+Wêgrzynowice
+50.1154
+20.1534
+NIE
+BUS
+Miejski
+Wêgrzynowice Centrum (n¿)
+50.1104
+20.1548
+TAK
+BUS
+Miejski
+Wêgrzynowice Dó³ (n¿)
+50.1038
+20.1496
+TAK
+BUS
+Miejski
+Wêgrzynowicka (n¿)
+50.0994
+20.1481
+TAK
+BUS
+Miejski
+Wêze³ Wielicki (n¿)
+50.0059
+20.0158
+TAK
+BUS
+Miejski
+ZOO
+50.0551
+19.8554
+NIE
+BUS
+Miejski
+Zabawa (n¿)
+49.9947
+20.091
+TAK
+BUS
+Miejski
+Zabawa I (n¿)
+49.9926
+20.0866
+TAK
+BUS
+Miejski
+Zabierzów
+50.1075
+19.8165
+NIE
+BUS
+Miejski
+Zabierzów Bocheñski Centrum (n¿)
+50.0676
+20.318
+TAK
+BUS
+Miejski
+Zabierzów Dzia³ki (n¿)
+50.1091
+19.8257
+TAK
+BUS
+Miejski
+Zabierzów Eximius Park
+50.1067
+19.8241
+NIE
+BUS
+Miejski
+Zabierzów I
+50.1156
+19.7925
+NIE
+BUS
+Miejski
+Zabierzów M³yn
+50.1197
+19.8016
+NIE
+BUS
+Miejski
+Zabierzów Oœrodek Zdrowia
+50.1173
+19.7748
+NIE
+BUS
+Miejski
+Zabierzów PKP
+50.118
+19.8008
+NIE
+BUS
+Miejski
+Zabierzów Piaski (n¿)
+50.117
+19.7827
+TAK
+BUS
+Miejski
+Zabierzów Piekarnia
+50.1129
+19.801
+NIE
+BUS
+Miejski
+Zabierzów Rynek
+50.1165
+19.7999
+NIE
+BUS
+Miejski
+Zabierzów Sklep
+50.1122
+19.8102
+NIE
+BUS
+Miejski
+Zab³ocie
+50.0497
+19.9651
+NIE
+BUS-TRAM
+Miejski
+Zab³ocie Koœcielnickie (n¿)
+50.0948
+20.1742
+TAK
+BUS
+Miejski
+Zachodnia
+50.0231
+19.9103
+NIE
+BUS
+Miejski
+Zagacie Górka (n¿)
+49.9999
+19.6967
+TAK
+BUS
+Miejski
+Zagacie Witkówki (n¿)
+50.0043
+19.7023
+TAK
+BUS
+Miejski
+Zagórzyce Dworskie Remiza
+50.1748
+20.0395
+NIE
+BUS
+Miejski
+Zagórzyce Stare Owocowa (n¿)
+50.1669
+20.0349
+TAK
+BUS
+Miejski
+Zajezdnia Bieñczyce
+50.0913
+20.0328
+NIE
+BUS
+Miejski
+Zajezdnia Nowa Huta
+50.0834
+20.0656
+NIE
+BUS-TRAM
+Miejski
+Zajezdnia P³aszów
+50.0356
+20.0116
+NIE
+BUS
+Miejski
+Zajezdnia Wola Duchacka
+50.0237
+19.9594
+NIE
+BUS
+Miejski
+Zakamycze
+50.0583
+19.8291
+NIE
+BUS
+Miejski
+Zakarnie (n¿)
+50.0529
+20.0634
+TAK
+BUS
+Miejski
+Zakliki (n¿)
+50.0831
+19.8498
+TAK
+BUS
+Miejski
+Zakole
+50.1089
+20.0531
+NIE
+BUS
+Miejski
+Zakrzów (n¿)
+50.0089
+20.1433
+TAK
+BUS
+Miejski
+Zak³ad Przeróbki (n¿)
+50.0735
+20.1268
+TAK
+BUS
+Miejski
+Zakêpie (n¿)
+50.068
+20.1897
+TAK
+BUS
+Miejski
+Zarzecze
+50.0766
+19.8886
+NIE
+BUS
+Miejski
+Zaskale (n¿)
+50.0468
+19.8651
+TAK
+BUS
+Miejski
+Zastów
+50.1213
+20.0507
+NIE
+BUS
+Miejski
+Zastów Dzia³ki (n¿)
+50.1216
+20.0568
+TAK
+BUS
+Miejski
+Zatyka (n¿)
+50.0513
+20.0146
+TAK
+BUS
+Miejski
+Zawiszy
+49.9997
+19.9119
+NIE
+BUS
+Miejski
+Zawi³a (n¿)
+50.0065
+19.9009
+TAK
+BUS
+Miejski
+Zbydniowice
+49.9727
+19.9475
+NIE
+BUS
+Miejski
+Zbydniowicka
+49.9735
+19.9611
+NIE
+BUS
+Miejski
+Zelczyna I (n¿)
+49.9625
+19.7585
+TAK
+BUS
+Miejski
+Zelczyna Sklep
+49.9604
+19.748
+NIE
+BUS
+Miejski
+Zelczyna Szko³a (n¿)
+49.959
+19.7446
+TAK
+BUS
+Miejski
+Zelków Koœciuszki (n¿)
+50.1615
+19.8052
+TAK
+BUS
+Miejski
+Zelków Pêtla
+50.1614
+19.8116
+NIE
+BUS
+Miejski
+Zelków Sp³awy (n¿)
+50.1612
+19.8002
+TAK
+BUS
+Miejski
+Zelków Staw
+50.1596
+19.7961
+NIE
+BUS
+Miejski
+Zelków Wola (n¿)
+50.1543
+19.7998
+TAK
+BUS
+Miejski
+Zes³awice
+50.1063
+20.0438
+NIE
+BUS
+Miejski
+Zes³awice Ogródki Dzia³kowe (n¿)
+50.1057
+20.0497
+TAK
+BUS
+Miejski
+Zieliñskiego (n¿)
+50.0471
+19.9127
+TAK
+BUS
+Miejski
+Zielonki Galicyjska (n¿)
+50.1222
+19.9325
+TAK
+BUS
+Miejski
+Zielonki Jaskinia Zielonkowska (n¿)
+50.1322
+19.9193
+TAK
+BUS
+Miejski
+Zielonki Marszowiec Pêtla
+50.1236
+19.9398
+NIE
+BUS
+Miejski
+Zielonki Rozjazd
+50.1294
+19.917
+NIE
+BUS
+Miejski
+Zielonki Skrzy¿owanie
+50.1084
+19.9242
+NIE
+BUS
+Miejski
+Zielonki Transformator
+50.1239
+19.9204
+NIE
+BUS
+Miejski
+Zielonki UG
+50.1185
+19.9213
+NIE
+BUS
+Miejski
+Zielony Dó³
+50.0667
+19.8561
+NIE
+BUS
+Miejski
+Z³ocieniowa
+50.0161
+20.0512
+NIE
+BUS
+Miejski
+Z³ocieñ
+50.0219
+20.0512
+NIE
+BUS
+Miejski
+¯elazowskiego (n¿)
+49.9886
+20.0001
+TAK
+BUS
+Miejski
+¯eromskiego
+50.078
+20.0392
+NIE
+BUS
+Miejski
+¯wirownia
+50.054
+20.1618
+NIE
+BUS
+Miejski
+¯ywiecka
+50.0157
+19.9197
+NIE
+BUS
+Miejski
+¯yzna (n¿)
+49.9828
+19.8841
+TAK
+BUS
+Miejski
+dfg
+26.23
+24.23
+TAK
+BUS
+Miejski

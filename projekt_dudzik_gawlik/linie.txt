@@ -1,0 +1,3 @@
+linia_175.txt
+linia_8.txt
+linia_503.txt
